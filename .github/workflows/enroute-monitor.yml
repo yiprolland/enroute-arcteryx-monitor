@@ -3,7 +3,7 @@ name: Enroute Arc'teryx Stock Monitor
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/11 * * * *"   # 每 11 分钟跑一次
+    - cron: "*/21 * * * *"   # 每 11 分钟跑一次
 
 permissions:
   contents: write
