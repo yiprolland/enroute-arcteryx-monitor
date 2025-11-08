@@ -1,0 +1,58 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.build/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Caches / test artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# Logs
+*.log
+
+# --- Playwright ---
+# Browser binaries are installed by the workflow; keep tests & code.
+playwright/.cache/
+# If you later add traces/videos, ignore them:
+test-results/
+playwright-report/
+trace.zip
+
+# --- Editors / OS ---
+# VS Code
+.vscode/
+# JetBrains
+.idea/
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# --- Node/npm (if added later) ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Env files (if you keep local testing secrets) ---
+.env
+.env.*
