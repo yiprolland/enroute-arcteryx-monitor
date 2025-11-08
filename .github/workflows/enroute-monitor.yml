@@ -1,0 +1,106 @@
+name: Enroute Arc'teryx Stock Monitor
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "*/11 * * * *"   # 每 11 分钟跑一次
+
+permissions:
+  contents: write
+
+concurrency:
+  group: enroute-monitor
+  cancel-in-progress: true   # 避免并发重叠
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PYTHONUNBUFFERED: "1"
+      NOTIFY_ON_NO_CHANGE: "false"
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+    steps:
+      - name: Checkout main with full history
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install deps (pip)
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers & system deps
+        run: |
+          python -m playwright install chromium
+          python -m playwright install-deps
+
+      - name: Run monitor (with retries)
+        shell: bash
+        run: |
+          set -euo pipefail
+          tries=3
+          for i in $(seq 1 $tries); do
+            echo "Attempt $i/$tries..."
+            if python monitor_enroute_arcteryx.py; then
+              echo "Run succeeded."
+              exit 0
+            fi
+            echo "Attempt $i failed. Sleeping $(( i * 20 ))s before retry..."
+            sleep $(( i * 20 ))
+          done
+          echo "All attempts failed."
+          exit 1
+
+      - name: Commit snapshot if changed (rebase & retry & lease)
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if ! git status --porcelain | grep -q "snapshot.json"; then
+            echo "No snapshot changes."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout -B main
+          git fetch --prune origin main
+          git pull --rebase --autostash origin main || true
+
+          git add snapshot.json
+          git commit -m "chore: update snapshot.json [skip ci]" || echo "Nothing to commit after rebase."
+
+          tries=3
+          for i in $(seq 1 $tries); do
+            if git push --porcelain origin HEAD:main; then
+              echo "Push succeeded."
+              exit 0
+            fi
+            echo "Push rejected. Re-fetch & rebase... attempt $i/$tries"
+            git fetch --prune origin main
+            git pull --rebase --autostash origin main || true
+            sleep $(( i * 5 ))
+          done
+
+          echo "Soft push failed after $tries attempts. Trying force-with-lease once..."
+          git push --force-with-lease origin HEAD:main
