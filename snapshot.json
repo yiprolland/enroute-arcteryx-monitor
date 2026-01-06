@@ -1,175 +1,136 @@
 {
   "version": 2,
   "products": {
-    "aerios-5-panel-cap": "Aerios 5 Panel Cap",
-    "arcteryx-mantis-1-waist-pack": "Mantis 1 Waist Pack",
-    "arcteryx-mantis-2-waist-pack": "Mantis 2 Waist Pack",
     "arcteryx-mens-gamma-mx-hoody": "Gamma MX Hoody",
     "arcteryx-mens-cormac-heavyweight-hoody": "Cormac Heavyweight Hoody",
-    "arcteryx-mens-ionia-merino-wool-hoody": "Ionia Merino Wool Hoody",
-    "arcteryx-mens-cormac-crew-ls": "Cormac Crew Neck Shirt LS",
-    "arcteryx-mens-norvan-short-5": "Norvan Short 5&#x27;",
+    "arcteryx-mantis-2-waist-pack": "Mantis 2 Waist Pack",
+    "arcteryx-granville-crossbody-bag": "Granville Crossbody Bag",
+    "aerios-5-panel-cap": "Aerios 5 Panel Cap",
+    "arcteryx-mantis-1-waist-pack": "Mantis 1 Waist Pack",
     "arcteryx-mens-beta-sl-jacket": "Beta SL Jacket",
+    "arcteryx-mens-cormac-crew-ls": "Cormac Crew Neck Shirt LS",
+    "arcteryx-mens-kyanite-pant": "Kyanite Pant",
+    "arcteryx-mens-ionia-merino-wool-hoody": "Ionia Merino Wool Hoody",
     "arcteryx-mens-kyanite-pullover-hood": "Kyanite Pullover Hoody",
-    "arcteryx-mens-norvan-shell-jacket": "Norvan Shell Jacket",
+    "arcteryx-mens-norvan-short-5": "Norvan Short 5&#x27;",
     "arcteryx-mens-proton-hoody": "Proton Hoody",
-    "arcteryx-mens-proton-hybrid-hoody": "Proton Hybrid Hoody",
-    "arcteryx-mens-rho-lt-crew-neck": "Rho LT Crew Neck",
-    "arcteryx-mens-sylan-gtx": "Sylan GTX",
     "arcteryx-mens-rho-lt-bottom": "Rho LT Bottom",
+    "arcteryx-mens-proton-hybrid-hoody": "Proton Hybrid Hoody",
+    "arcteryx-mens-sylan-gtx": "Sylan GTX",
+    "arcteryx-mens-rho-lt-crew-neck": "Rho LT Crew Neck",
     "arcteryx-norvan-regular-brim-hat": "Norvan Regular Brim Hat",
     "arcteryx-rho-headband": "Rho Headband",
     "arcteryx-womens-atom-hoody": "Women&#x27;s Atom Hoody",
     "arcteryx-womens-atom-vest": "Women&#x27;s Atom Vest",
     "arcteryx-womens-beta-sl-jacket": "Women&#x27;s Beta SL Jacket",
-    "arcteryx-womens-covert-pullover-hoody": "Women&#x27;s Covert Pullover Hoody",
-    "arcteryx-womens-kyanite-baselayer-zip-neck": "Women&#x27;s Kyanite Baselayer Zip Neck",
     "arcteryx-womens-kyanite-hoody": "Women&#x27;s Kyanite Hoody",
+    "arcteryx-womens-kyanite-baselayer-zip-neck": "Women&#x27;s Kyanite Baselayer Zip Neck",
+    "arcteryx-womens-covert-pullover-hoody": "Women&#x27;s Covert Pullover Hoody",
+    "arcteryx-womens-norvan-crew-ls": "Women&#x27;s Norvan Crew LS",
     "arcteryx-womens-lana-merino-wool-crew-ls": "Women&#x27;s Lana Merino Wool Crew LS",
     "arcteryx-womens-norvan-crew-ss": "Women&#x27;s Norvan Crew Neck Shirt SS",
     "arcteryx-womens-norvan-insulated-hoody": "Women&#x27;s Norvan Insulated Hoody",
-    "arcteryx-womens-norvan-crew-ls": "Women&#x27;s Norvan Crew LS",
-    "arcteryx-womens-norvan-ld-3": "Women&#x27;s Norvan LD 3",
-    "arcteryx-womens-norvan-shell-jacket": "Women&#x27;s Norvan Shell Jacket",
     "arcteryx-womens-norvan-tank": "Women&#x27;s Norvan Tank",
+    "arcteryx-womens-norvan-shell-jacket": "Women&#x27;s Norvan Shell Jacket",
+    "arcteryx-womens-norvan-ld-3": "Women&#x27;s Norvan LD 3",
+    "arcteryx-womens-proton-hybrid-hoody": "Women&#x27;s Proton Hybrid Hoody",
     "arcteryx-womens-rho-ls-crew": "Women&#x27;s Rho LS Crew",
     "arcteryx-womens-rho-merino-wool-ls-crew": "Women&#x27;s Rho Merino Wool LS Crew",
     "arcteryx-womens-sylan-gtx": "Women&#x27;s Sylan GTX",
-    "arcteryx-womens-taema-hoody": "Women&#x27;s Taema Hoody",
     "arcteryx-wool-calidum-5-panel-hat": "Wool Calidum 5 Panel Hat",
     "bird-word-cap": "Bird Word Cap",
+    "arcteryx-womens-taema-hoody": "Women&#x27;s Taema Hoody",
     "bird-word-torque": "Bird Word Toque",
     "bird-word-trucker-hat": "Bird Word Trucker Hat",
     "covert-cardigan": "Covert Cardigan",
     "cronin-cotton-pant": "Cronin Cotton Pant",
     "emblem-fleece-full-zip-hoody": "Emblem Fleece Full Zip Hoody",
     "emblem-fleece-hoody": "Emblem Fleece Hoody",
-    "gamma-5-panel-cap": "Gamma 5 Panel Cap",
-    "gamma-ar-pant": "Gamma AR Pant",
     "emblem-fleece-jogger": "Emblem Fleece Jogger",
-    "granville-16-backpack": "Granville 16 Backpack",
+    "gamma-5-panel-cap": "Gamma 5 Panel Cap",
     "gamma-sl-short-11": "Gamma SL Short 11&quot;",
+    "granville-16-backpack": "Granville 16 Backpack",
+    "gamma-ar-pant": "Gamma AR Pant",
     "granville-25-backpack": "Granville 25 Backpack",
     "heliad-crossbody-bag": "Heliad Crossbody Bag",
     "konseal-pullover-hoody": "Konseal Pullover Hoody",
-    "kragg-cotton-pant-copy": "Women&#x27;s Kragg Cotton Pant",
     "kragg-cotton-pant": "Kragg Cotton Pant",
-    "kragg-sl-cotton-shirt-ls": "Kragg SL Cotton Shirt LS",
-    "mens-atom-hoody-copy": "Atom SL Hoody",
+    "konseal-crew-neck-pullover": "Konseal Crew Neck Pullover",
+    "kragg-cotton-pant-copy": "Women&#x27;s Kragg Cotton Pant",
     "mantis-16-backpack": "Mantis 16 Backpack",
-    "mens-beta-jacket": "Beta Jacket",
+    "mens-atom-hoody-copy": "Atom SL Hoody",
     "mens-beta-sl-jacket": "Beta SL Jacket",
     "mens-cerium-jacket": "Cerium Jacket",
-    "mens-delta-pullover-hoody": "Delta Pullover Hoody",
     "mens-cormac-tank": "Cormac Tank",
-    "mens-delta-hoody": "Delta Hoody",
-    "mens-gamma-hoody": "Gamma Hoody",
-    "arcteryx-granville-crossbody-bag": "Granville Crossbody Bag",
-    "mens-gamma-jacket": "Gamma Jacket",
+    "mens-delta-pullover-hoody": "Delta Pullover Hoody",
     "mens-gamma-jogger": "Gamma Jogger",
-    "arcteryx-mens-kyanite-pant": "Kyanite Pant",
+    "mens-gamma-jacket": "Gamma Jacket",
     "mens-gamma-pant": "Gamma Pant",
-    "mens-incendo-pant": "Men&#x27;s Incendo Pant",
     "mens-gamma-quick-dry-short-9": "Gamma Quick Dry Short 9&quot;",
+    "mens-gamma-sl-short-9": "Gamma SL Short 9&quot;",
     "mens-incendo-short-9": "Incendo Short 9&quot;",
     "mens-kragg-cotton-shirt-ls": "Kragg Cotton Shirt LS",
     "mens-kragg-shoe": "Kragg Shoe",
+    "mens-kragg-cotton-shorts-9": "Kragg Cotton Shorts 9&#x27;",
     "mens-kyanite-hoody": "Kyanite Hoody",
+    "mens-kyanite-jacket": "Kyanite Jacket",
     "mens-norvan-downword-logo-ls": "Norvan Downword Logo LS",
-    "mens-norvan-downword-logo-tank": "Norvan Downword Logo Tank",
     "mens-norvan-downword-logo-ss": "Norvan Downword Logo SS",
+    "mens-norvan-downword-logo-tank": "Norvan Downword Logo Tank",
     "mens-norvan-ld-4": "Norvan LD 4",
+    "mens-sima-pullover-hoody": "Sima Pullover Hoody",
     "mens-sylan-pro": "Sylan Pro",
-    "arcteryx-womens-proton-hybrid-hoody": "Women&#x27;s Proton Hybrid Hoody",
+    "mens-thorium-hoody-copy": "Thorium Hoody",
     "norvan-cap": "Norvan Cap",
-    "norvan-tight": "Norvan Tight",
     "rho-sv-zip-neck": "Rho SV Zip Neck",
+    "norvan-tight": "Norvan Tight",
     "sawyer-wool-overshirt": "Sawyer Wool Overshirt",
-    "small-bird-cap": "Small Bird Cap",
     "sinsolo-bucket-hat": "Sinsolo Bucket Hat",
-    "womens-aestas-shorts-5-5": "Women&#x27;s Aestas Short 5.5&quot;",
+    "small-bird-cap": "Small Bird Cap",
     "womens": "Women&#x27;s Aestas Crew Neck Pullover",
-    "womens-beta-ar-jacket": "Women&#x27;s Beta AR Jacket",
+    "womens-aestas-shorts-5-5": "Women&#x27;s Aestas Short 5.5&quot;",
     "womens-atom-hoody": "Women&#x27;s Atom Hoody",
+    "womens-beta-ar-jacket": "Women&#x27;s Beta AR Jacket",
+    "womens-beta-insulated-jacket": "Women&#x27;s Beta Insulated Jacket",
     "womens-beta-jacket-1": "Women&#x27;s Beta Jacket",
     "womens-beta-sl-jacket-1": "Women&#x27;s Beta SL Jacket",
     "womens-cerium-hoody": "Women&#x27;s Cerium Hoody",
-    "womens-cerium-vest": "Women&#x27;s Cerium Vest",
-    "mens-gamma-sl-short-9": "Gamma SL Short 9&quot;",
-    "mens-kragg-cotton-shorts-9": "Kragg Cotton Shorts 9&#x27;",
     "womens-delta-crew-neck-pullover": "Women&#x27;s Delta Crew Neck Pullover",
-    "mens-kyanite-jacket": "Kyanite Jacket",
-    "womens-emblem-fleece-crew-neck-pullover": "Women&#x27;s Emblem Fleece Crew Neck Pullover",
     "womens-delta-jacket": "Women&#x27;s Delta Jacket",
+    "womens-emblem-fleece-crew-neck-pullover": "Women&#x27;s Emblem Fleece Crew Neck Pullover",
+    "arcteryx-mens-norvan-shell-jacket": "Norvan Shell Jacket",
     "womens-essent-high-rise-utility-legging-26": "Women&#x27;s Essent High-Rise Utility Legging 26&quot;",
-    "womens-emblem-fleece-jogger": "Women&#x27;s Emblem Fleece Jogger",
-    "womens-essent-high-rise-utility-short-8": "Women&#x27;s Essent High-Rise Utility Short 8&quot;",
+    "mens-beta-jacket": "Beta Jacket",
+    "kragg-sl-cotton-shirt-ls": "Kragg SL Cotton Shirt LS",
+    "womens-gamma-hoody": "Women&#x27;s Gamma Hoody",
     "womens-gamma-lightweight-hoody": "Women&#x27;s Gamma Lightweight Hoody",
-    "mens-sima-pullover-hoody": "Sima Pullover Hoody",
-    "mens-thorium-hoody-copy": "Thorium Hoody",
-    "womens-kragg-insulated-shoes": "Women&#x27;s Kragg Insulated Shoes",
+    "mens-delta-hoody": "Delta Hoody",
+    "mens-gamma-hoody": "Gamma Hoody",
+    "womens-kragg-cotton-bird-crew-neck-shirt-ls": "Women&#x27;s Kragg Cotton Bird Crew Neck Shirt LS",
+    "womens-kragg-cotton-little-bird-crew-shirt-ss": "Women&#x27;s Kragg Cotton Little Bird Crew Shirt SS",
     "womens-kragg-shoes": "Women&#x27;s Kragg Shoes",
     "womens-kyanite-jacket": "Women&#x27;s Kyanite Jacket",
     "womens-kyanite-lt-hoody": "Women&#x27;s Kyanite LT Hoody",
-    "womens-norvan-ld-4-gtx": "Women&#x27;s Norvan LD 4 GTX",
     "womens-norvan-ld-4": "Women&#x27;s Norvan LD 4",
+    "womens-norvan-ld-4-gtx": "Women&#x27;s Norvan LD 4 GTX",
     "womens-norvan-short-5": "Women&#x27;s Norvan Short 5&quot;",
-    "womens-proton-sl-hoody": "Women&#x27;s Proton SL Hoody",
+    "mens-incendo-pant": "Men&#x27;s Incendo Pant",
     "womens-rho-bottom": "Women&#x27;s Rho Bottom",
+    "womens-proton-sl-hoody": "Women&#x27;s Proton SL Hoody",
     "womens-rho-crew-neck-ls": "Women&#x27;s Rho Crew Neck LS",
     "womens-rho-hoody": "Women&#x27;s Rho Hoody",
-    "womens-soria-tank": "Women&#x27;s Soria Tank",
     "womens-sylan-pro": "Women&#x27;s Sylan Pro",
-    "konseal-crew-neck-pullover": "Konseal Crew Neck Pullover",
+    "womens-soria-tank": "Women&#x27;s Soria Tank",
     "womens-taema-crew-neck-shirt-ls": "Women&#x27;s Taema Crew Neck Shirt LS",
     "womens-taema-tank": "Women&#x27;s Taema Tank",
     "womens-thorium-vest": "Women&#x27;s Thorium Vest",
-    "womens-beta-insulated-jacket": "Women&#x27;s Beta Insulated Jacket",
     "word-head-toque": "Word Head Toque",
-    "womens-gamma-hoody": "Women&#x27;s Gamma Hoody",
-    "womens-kragg-cotton-bird-crew-neck-shirt-ls": "Women&#x27;s Kragg Cotton Bird Crew Neck Shirt LS",
-    "womens-kragg-cotton-little-bird-crew-shirt-ss": "Women&#x27;s Kragg Cotton Little Bird Crew Shirt SS"
+    "womens-cerium-vest": "Women&#x27;s Cerium Vest",
+    "womens-emblem-fleece-jogger": "Women&#x27;s Emblem Fleece Jogger",
+    "womens-essent-high-rise-utility-short-8": "Women&#x27;s Essent High-Rise Utility Short 8&quot;",
+    "womens-kragg-insulated-shoes": "Women&#x27;s Kragg Insulated Shoes"
   },
   "variants": {
-    "name:Aerios 5 Panel Cap||": {
-      "handle": "aerios-5-panel-cap",
-      "title": "Aerios 5 Panel Cap",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 50,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/aerios-5-panel-cap",
-      "currency": "USD"
-    },
-    "name:Mantis 1 Waist Pack||": {
-      "handle": "arcteryx-mantis-1-waist-pack",
-      "title": "Mantis 1 Waist Pack",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 55,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
-      "currency": "USD"
-    },
-    "name:Mantis 2 Waist Pack||": {
-      "handle": "arcteryx-mantis-2-waist-pack",
-      "title": "Mantis 2 Waist Pack",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 65,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mantis-2-waist-pack",
-      "currency": "USD"
-    },
     "name:Gamma MX Hoody||": {
       "handle": "arcteryx-mens-gamma-mx-hoody",
       "title": "Gamma MX Hoody",
@@ -196,43 +157,56 @@
       "url": "https://enroute.run/products/arcteryx-mens-cormac-heavyweight-hoody",
       "currency": "USD"
     },
-    "name:Ionia Merino Wool Hoody||": {
-      "handle": "arcteryx-mens-ionia-merino-wool-hoody",
-      "title": "Ionia Merino Wool Hoody",
+    "name:Mantis 2 Waist Pack||": {
+      "handle": "arcteryx-mantis-2-waist-pack",
+      "title": "Mantis 2 Waist Pack",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 170,
+      "price_cents": 65,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-ionia-merino-wool-hoody",
+      "url": "https://enroute.run/products/arcteryx-mantis-2-waist-pack",
       "currency": "USD"
     },
-    "name:Cormac Crew Neck Shirt LS||": {
-      "handle": "arcteryx-mens-cormac-crew-ls",
-      "title": "Cormac Crew Neck Shirt LS",
+    "name:Granville Crossbody Bag||": {
+      "handle": "arcteryx-granville-crossbody-bag",
+      "title": "Granville Crossbody Bag",
       "color": "",
       "size": "",
-      "available": false,
-      "price_cents": 80,
+      "available": true,
+      "price_cents": 130,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-cormac-crew-ls",
+      "url": "https://enroute.run/products/arcteryx-granville-crossbody-bag",
       "currency": "USD"
     },
-    "name:Norvan Short 5&#x27;||": {
-      "handle": "arcteryx-mens-norvan-short-5",
-      "title": "Norvan Short 5&#x27;",
+    "name:Aerios 5 Panel Cap||": {
+      "handle": "aerios-5-panel-cap",
+      "title": "Aerios 5 Panel Cap",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 110,
+      "price_cents": 50,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-norvan-short-5",
+      "url": "https://enroute.run/products/aerios-5-panel-cap",
+      "currency": "USD"
+    },
+    "name:Mantis 1 Waist Pack||": {
+      "handle": "arcteryx-mantis-1-waist-pack",
+      "title": "Mantis 1 Waist Pack",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 55,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
       "currency": "USD"
     },
     "name:Beta SL Jacket||": {
@@ -248,6 +222,45 @@
       "url": "https://enroute.run/products/mens-beta-sl-jacket",
       "currency": "USD"
     },
+    "name:Cormac Crew Neck Shirt LS||": {
+      "handle": "arcteryx-mens-cormac-crew-ls",
+      "title": "Cormac Crew Neck Shirt LS",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 80,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-cormac-crew-ls",
+      "currency": "USD"
+    },
+    "name:Kyanite Pant||": {
+      "handle": "arcteryx-mens-kyanite-pant",
+      "title": "Kyanite Pant",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 190,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-kyanite-pant",
+      "currency": "USD"
+    },
+    "name:Ionia Merino Wool Hoody||": {
+      "handle": "arcteryx-mens-ionia-merino-wool-hoody",
+      "title": "Ionia Merino Wool Hoody",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 170,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-ionia-merino-wool-hoody",
+      "currency": "USD"
+    },
     "name:Kyanite Pullover Hoody||": {
       "handle": "arcteryx-mens-kyanite-pullover-hood",
       "title": "Kyanite Pullover Hoody",
@@ -261,17 +274,17 @@
       "url": "https://enroute.run/products/arcteryx-mens-kyanite-pullover-hood",
       "currency": "USD"
     },
-    "name:Norvan Shell Jacket||": {
-      "handle": "arcteryx-mens-norvan-shell-jacket",
-      "title": "Norvan Shell Jacket",
+    "name:Norvan Short 5&#x27;||": {
+      "handle": "arcteryx-mens-norvan-short-5",
+      "title": "Norvan Short 5&#x27;",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 500,
+      "price_cents": 110,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-norvan-shell-jacket",
+      "url": "https://enroute.run/products/arcteryx-mens-norvan-short-5",
       "currency": "USD"
     },
     "name:Proton Hoody||": {
@@ -287,6 +300,19 @@
       "url": "https://enroute.run/products/arcteryx-mens-proton-hoody",
       "currency": "USD"
     },
+    "name:Rho LT Bottom||": {
+      "handle": "arcteryx-mens-rho-lt-bottom",
+      "title": "Rho LT Bottom",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-bottom",
+      "currency": "USD"
+    },
     "name:Proton Hybrid Hoody||": {
       "handle": "arcteryx-mens-proton-hybrid-hoody",
       "title": "Proton Hybrid Hoody",
@@ -298,19 +324,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/arcteryx-mens-proton-hybrid-hoody",
-      "currency": "USD"
-    },
-    "name:Rho LT Crew Neck||": {
-      "handle": "arcteryx-mens-rho-lt-crew-neck",
-      "title": "Rho LT Crew Neck",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 120,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-crew-neck",
       "currency": "USD"
     },
     "name:Sylan GTX||": {
@@ -326,9 +339,9 @@
       "url": "https://enroute.run/products/arcteryx-mens-sylan-gtx",
       "currency": "USD"
     },
-    "name:Rho LT Bottom||": {
-      "handle": "arcteryx-mens-rho-lt-bottom",
-      "title": "Rho LT Bottom",
+    "name:Rho LT Crew Neck||": {
+      "handle": "arcteryx-mens-rho-lt-crew-neck",
+      "title": "Rho LT Crew Neck",
       "color": "",
       "size": "",
       "available": false,
@@ -336,7 +349,7 @@
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-bottom",
+      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-crew-neck",
       "currency": "USD"
     },
     "name:Norvan Regular Brim Hat||": {
@@ -404,17 +417,17 @@
       "url": "https://enroute.run/products/womens-beta-sl-jacket-1",
       "currency": "USD"
     },
-    "name:Women&#x27;s Covert Pullover Hoody||": {
-      "handle": "arcteryx-womens-covert-pullover-hoody",
-      "title": "Women&#x27;s Covert Pullover Hoody",
+    "name:Women&#x27;s Kyanite Hoody||": {
+      "handle": "arcteryx-womens-kyanite-hoody",
+      "title": "Women&#x27;s Kyanite Hoody",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 220,
+      "price_cents": 240,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-covert-pullover-hoody",
+      "url": "https://enroute.run/products/arcteryx-womens-kyanite-hoody",
       "currency": "USD"
     },
     "name:Women&#x27;s Kyanite Baselayer Zip Neck||": {
@@ -430,17 +443,30 @@
       "url": "https://enroute.run/products/arcteryx-womens-kyanite-baselayer-zip-neck",
       "currency": "USD"
     },
-    "name:Women&#x27;s Kyanite Hoody||": {
-      "handle": "arcteryx-womens-kyanite-hoody",
-      "title": "Women&#x27;s Kyanite Hoody",
+    "name:Women&#x27;s Covert Pullover Hoody||": {
+      "handle": "arcteryx-womens-covert-pullover-hoody",
+      "title": "Women&#x27;s Covert Pullover Hoody",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 240,
+      "price_cents": 220,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-kyanite-hoody",
+      "url": "https://enroute.run/products/arcteryx-womens-covert-pullover-hoody",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Norvan Crew LS||": {
+      "handle": "arcteryx-womens-norvan-crew-ls",
+      "title": "Women&#x27;s Norvan Crew LS",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 84,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-norvan-crew-ls",
       "currency": "USD"
     },
     "name:Women&#x27;s Lana Merino Wool Crew LS||": {
@@ -482,30 +508,17 @@
       "url": "https://enroute.run/products/arcteryx-womens-norvan-insulated-hoody",
       "currency": "USD"
     },
-    "name:Women&#x27;s Norvan Crew LS||": {
-      "handle": "arcteryx-womens-norvan-crew-ls",
-      "title": "Women&#x27;s Norvan Crew LS",
+    "name:Women&#x27;s Norvan Tank||": {
+      "handle": "arcteryx-womens-norvan-tank",
+      "title": "Women&#x27;s Norvan Tank",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 84,
+      "price_cents": 100,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-norvan-crew-ls",
-      "currency": "USD"
-    },
-    "name:Women&#x27;s Norvan LD 3||": {
-      "handle": "arcteryx-womens-norvan-ld-3",
-      "title": "Women&#x27;s Norvan LD 3",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 200,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-norvan-ld-3",
+      "url": "https://enroute.run/products/arcteryx-womens-norvan-tank",
       "currency": "USD"
     },
     "name:Women&#x27;s Norvan Shell Jacket||": {
@@ -521,17 +534,30 @@
       "url": "https://enroute.run/products/arcteryx-womens-norvan-shell-jacket",
       "currency": "USD"
     },
-    "name:Women&#x27;s Norvan Tank||": {
-      "handle": "arcteryx-womens-norvan-tank",
-      "title": "Women&#x27;s Norvan Tank",
+    "name:Women&#x27;s Norvan LD 3||": {
+      "handle": "arcteryx-womens-norvan-ld-3",
+      "title": "Women&#x27;s Norvan LD 3",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 100,
+      "price_cents": 200,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-norvan-tank",
+      "url": "https://enroute.run/products/arcteryx-womens-norvan-ld-3",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Proton Hybrid Hoody||": {
+      "handle": "arcteryx-womens-proton-hybrid-hoody",
+      "title": "Women&#x27;s Proton Hybrid Hoody",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 400,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-proton-hybrid-hoody",
       "currency": "USD"
     },
     "name:Women&#x27;s Rho LS Crew||": {
@@ -573,19 +599,6 @@
       "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
       "currency": "USD"
     },
-    "name:Women&#x27;s Taema Hoody||": {
-      "handle": "arcteryx-womens-taema-hoody",
-      "title": "Women&#x27;s Taema Hoody",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 77,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-taema-hoody",
-      "currency": "USD"
-    },
     "name:Wool Calidum 5 Panel Hat||": {
       "handle": "arcteryx-wool-calidum-5-panel-hat",
       "title": "Wool Calidum 5 Panel Hat",
@@ -610,6 +623,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/bird-word-cap",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Taema Hoody||": {
+      "handle": "arcteryx-womens-taema-hoody",
+      "title": "Women&#x27;s Taema Hoody",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 77,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-taema-hoody",
       "currency": "USD"
     },
     "name:Bird Word Toque||": {
@@ -690,6 +716,19 @@
       "url": "https://enroute.run/products/emblem-fleece-hoody",
       "currency": "USD"
     },
+    "name:Emblem Fleece Jogger||": {
+      "handle": "emblem-fleece-jogger",
+      "title": "Emblem Fleece Jogger",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 130,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/emblem-fleece-jogger",
+      "currency": "USD"
+    },
     "name:Gamma 5 Panel Cap||": {
       "handle": "gamma-5-panel-cap",
       "title": "Gamma 5 Panel Cap",
@@ -703,30 +742,17 @@
       "url": "https://enroute.run/products/gamma-5-panel-cap",
       "currency": "USD"
     },
-    "name:Gamma AR Pant||": {
-      "handle": "gamma-ar-pant",
-      "title": "Gamma AR Pant",
+    "name:Gamma SL Short 11&quot;||": {
+      "handle": "gamma-sl-short-11",
+      "title": "Gamma SL Short 11&quot;",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 280,
+      "price_cents": 140,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/gamma-ar-pant",
-      "currency": "USD"
-    },
-    "name:Emblem Fleece Jogger||": {
-      "handle": "emblem-fleece-jogger",
-      "title": "Emblem Fleece Jogger",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 130,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/emblem-fleece-jogger",
+      "url": "https://enroute.run/products/gamma-sl-short-11",
       "currency": "USD"
     },
     "name:Granville 16 Backpack||": {
@@ -742,17 +768,17 @@
       "url": "https://enroute.run/products/granville-16-backpack",
       "currency": "USD"
     },
-    "name:Gamma SL Short 11&quot;||": {
-      "handle": "gamma-sl-short-11",
-      "title": "Gamma SL Short 11&quot;",
+    "name:Gamma AR Pant||": {
+      "handle": "gamma-ar-pant",
+      "title": "Gamma AR Pant",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 140,
+      "price_cents": 280,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/gamma-sl-short-11",
+      "url": "https://enroute.run/products/gamma-ar-pant",
       "currency": "USD"
     },
     "name:Granville 25 Backpack||": {
@@ -794,19 +820,6 @@
       "url": "https://enroute.run/products/konseal-pullover-hoody",
       "currency": "USD"
     },
-    "name:Women&#x27;s Kragg Cotton Pant||": {
-      "handle": "kragg-cotton-pant-copy",
-      "title": "Women&#x27;s Kragg Cotton Pant",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 220,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/kragg-cotton-pant-copy",
-      "currency": "USD"
-    },
     "name:Kragg Cotton Pant||": {
       "handle": "kragg-cotton-pant",
       "title": "Kragg Cotton Pant",
@@ -820,30 +833,30 @@
       "url": "https://enroute.run/products/kragg-cotton-pant",
       "currency": "USD"
     },
-    "name:Kragg SL Cotton Shirt LS||": {
-      "handle": "kragg-sl-cotton-shirt-ls",
-      "title": "Kragg SL Cotton Shirt LS",
+    "name:Konseal Crew Neck Pullover||": {
+      "handle": "konseal-crew-neck-pullover",
+      "title": "Konseal Crew Neck Pullover",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 80,
+      "price_cents": 220,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/kragg-sl-cotton-shirt-ls",
+      "url": "https://enroute.run/products/konseal-crew-neck-pullover",
       "currency": "USD"
     },
-    "name:Atom SL Hoody||": {
-      "handle": "mens-atom-hoody-copy",
-      "title": "Atom SL Hoody",
+    "name:Women&#x27;s Kragg Cotton Pant||": {
+      "handle": "kragg-cotton-pant-copy",
+      "title": "Women&#x27;s Kragg Cotton Pant",
       "color": "",
       "size": "",
-      "available": false,
-      "price_cents": 340,
+      "available": true,
+      "price_cents": 220,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-atom-hoody-copy",
+      "url": "https://enroute.run/products/kragg-cotton-pant-copy",
       "currency": "USD"
     },
     "name:Mantis 16 Backpack||": {
@@ -859,17 +872,17 @@
       "url": "https://enroute.run/products/mantis-16-backpack",
       "currency": "USD"
     },
-    "name:Beta Jacket||": {
-      "handle": "mens-beta-jacket",
-      "title": "Beta Jacket",
+    "name:Atom SL Hoody||": {
+      "handle": "mens-atom-hoody-copy",
+      "title": "Atom SL Hoody",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 500,
+      "price_cents": 340,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-beta-jacket",
+      "url": "https://enroute.run/products/mens-atom-hoody-copy",
       "currency": "USD"
     },
     "name:Cerium Jacket||": {
@@ -885,19 +898,6 @@
       "url": "https://enroute.run/products/mens-cerium-jacket",
       "currency": "USD"
     },
-    "name:Delta Pullover Hoody||": {
-      "handle": "mens-delta-pullover-hoody",
-      "title": "Delta Pullover Hoody",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 220,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-delta-pullover-hoody",
-      "currency": "USD"
-    },
     "name:Cormac Tank||": {
       "handle": "mens-cormac-tank",
       "title": "Cormac Tank",
@@ -911,56 +911,17 @@
       "url": "https://enroute.run/products/mens-cormac-tank",
       "currency": "USD"
     },
-    "name:Delta Hoody||": {
-      "handle": "mens-delta-hoody",
-      "title": "Delta Hoody",
+    "name:Delta Pullover Hoody||": {
+      "handle": "mens-delta-pullover-hoody",
+      "title": "Delta Pullover Hoody",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 260,
+      "price_cents": 220,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-delta-hoody",
-      "currency": "USD"
-    },
-    "name:Gamma Hoody||": {
-      "handle": "mens-gamma-hoody",
-      "title": "Gamma Hoody",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 360,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-hoody",
-      "currency": "USD"
-    },
-    "name:Granville Crossbody Bag||": {
-      "handle": "arcteryx-granville-crossbody-bag",
-      "title": "Granville Crossbody Bag",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 130,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-granville-crossbody-bag",
-      "currency": "USD"
-    },
-    "name:Gamma Jacket||": {
-      "handle": "mens-gamma-jacket",
-      "title": "Gamma Jacket",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 340,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-jacket",
+      "url": "https://enroute.run/products/mens-delta-pullover-hoody",
       "currency": "USD"
     },
     "name:Gamma Jogger||": {
@@ -976,17 +937,17 @@
       "url": "https://enroute.run/products/mens-gamma-jogger",
       "currency": "USD"
     },
-    "name:Kyanite Pant||": {
-      "handle": "arcteryx-mens-kyanite-pant",
-      "title": "Kyanite Pant",
+    "name:Gamma Jacket||": {
+      "handle": "mens-gamma-jacket",
+      "title": "Gamma Jacket",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 190,
+      "price_cents": 340,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-kyanite-pant",
+      "url": "https://enroute.run/products/mens-gamma-jacket",
       "currency": "USD"
     },
     "name:Gamma Pant||": {
@@ -1002,19 +963,6 @@
       "url": "https://enroute.run/products/mens-gamma-pant",
       "currency": "USD"
     },
-    "name:Men&#x27;s Incendo Pant||": {
-      "handle": "mens-incendo-pant",
-      "title": "Men&#x27;s Incendo Pant",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 160,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-incendo-pant",
-      "currency": "USD"
-    },
     "name:Gamma Quick Dry Short 9&quot;||": {
       "handle": "mens-gamma-quick-dry-short-9",
       "title": "Gamma Quick Dry Short 9&quot;",
@@ -1026,6 +974,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-gamma-quick-dry-short-9",
+      "currency": "USD"
+    },
+    "name:Gamma SL Short 9&quot;||": {
+      "handle": "mens-gamma-sl-short-9",
+      "title": "Gamma SL Short 9&quot;",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 140,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-gamma-sl-short-9",
       "currency": "USD"
     },
     "name:Incendo Short 9&quot;||": {
@@ -1067,6 +1028,19 @@
       "url": "https://enroute.run/products/mens-kragg-shoe",
       "currency": "USD"
     },
+    "name:Kragg Cotton Shorts 9&#x27;||": {
+      "handle": "mens-kragg-cotton-shorts-9",
+      "title": "Kragg Cotton Shorts 9&#x27;",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 140,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-kragg-cotton-shorts-9",
+      "currency": "USD"
+    },
     "name:Kyanite Hoody||": {
       "handle": "mens-kyanite-hoody",
       "title": "Kyanite Hoody",
@@ -1078,6 +1052,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-kyanite-hoody",
+      "currency": "USD"
+    },
+    "name:Kyanite Jacket||": {
+      "handle": "mens-kyanite-jacket",
+      "title": "Kyanite Jacket",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 220,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-kyanite-jacket",
       "currency": "USD"
     },
     "name:Norvan Downword Logo LS||": {
@@ -1093,19 +1080,6 @@
       "url": "https://enroute.run/products/mens-norvan-downword-logo-ls",
       "currency": "USD"
     },
-    "name:Norvan Downword Logo Tank||": {
-      "handle": "mens-norvan-downword-logo-tank",
-      "title": "Norvan Downword Logo Tank",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 110,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-norvan-downword-logo-tank",
-      "currency": "USD"
-    },
     "name:Norvan Downword Logo SS||": {
       "handle": "mens-norvan-downword-logo-ss",
       "title": "Norvan Downword Logo SS",
@@ -1117,6 +1091,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
+      "currency": "USD"
+    },
+    "name:Norvan Downword Logo Tank||": {
+      "handle": "mens-norvan-downword-logo-tank",
+      "title": "Norvan Downword Logo Tank",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 110,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-norvan-downword-logo-tank",
       "currency": "USD"
     },
     "name:Norvan LD 4||": {
@@ -1132,6 +1119,19 @@
       "url": "https://enroute.run/products/mens-norvan-ld-4",
       "currency": "USD"
     },
+    "name:Sima Pullover Hoody||": {
+      "handle": "mens-sima-pullover-hoody",
+      "title": "Sima Pullover Hoody",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 170,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-sima-pullover-hoody",
+      "currency": "USD"
+    },
     "name:Sylan Pro||": {
       "handle": "mens-sylan-pro",
       "title": "Sylan Pro",
@@ -1145,17 +1145,17 @@
       "url": "https://enroute.run/products/mens-sylan-pro",
       "currency": "USD"
     },
-    "name:Women&#x27;s Proton Hybrid Hoody||": {
-      "handle": "arcteryx-womens-proton-hybrid-hoody",
-      "title": "Women&#x27;s Proton Hybrid Hoody",
+    "name:Thorium Hoody||": {
+      "handle": "mens-thorium-hoody-copy",
+      "title": "Thorium Hoody",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 400,
+      "price_cents": 600,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-proton-hybrid-hoody",
+      "url": "https://enroute.run/products/mens-thorium-hoody-copy",
       "currency": "USD"
     },
     "name:Norvan Cap||": {
@@ -1171,19 +1171,6 @@
       "url": "https://enroute.run/products/norvan-cap",
       "currency": "USD"
     },
-    "name:Norvan Tight||": {
-      "handle": "norvan-tight",
-      "title": "Norvan Tight",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 220,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/norvan-tight",
-      "currency": "USD"
-    },
     "name:Rho SV Zip Neck||": {
       "handle": "rho-sv-zip-neck",
       "title": "Rho SV Zip Neck",
@@ -1195,6 +1182,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/rho-sv-zip-neck",
+      "currency": "USD"
+    },
+    "name:Norvan Tight||": {
+      "handle": "norvan-tight",
+      "title": "Norvan Tight",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 220,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/norvan-tight",
       "currency": "USD"
     },
     "name:Sawyer Wool Overshirt||": {
@@ -1210,19 +1210,6 @@
       "url": "https://enroute.run/products/sawyer-wool-overshirt",
       "currency": "USD"
     },
-    "name:Small Bird Cap||": {
-      "handle": "small-bird-cap",
-      "title": "Small Bird Cap",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 60,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/small-bird-cap",
-      "currency": "USD"
-    },
     "name:Sinsolo Bucket Hat||": {
       "handle": "sinsolo-bucket-hat",
       "title": "Sinsolo Bucket Hat",
@@ -1236,17 +1223,17 @@
       "url": "https://enroute.run/products/sinsolo-bucket-hat",
       "currency": "USD"
     },
-    "name:Women&#x27;s Aestas Short 5.5&quot;||": {
-      "handle": "womens-aestas-shorts-5-5",
-      "title": "Women&#x27;s Aestas Short 5.5&quot;",
+    "name:Small Bird Cap||": {
+      "handle": "small-bird-cap",
+      "title": "Small Bird Cap",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 120,
+      "price_cents": 60,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-aestas-shorts-5-5",
+      "url": "https://enroute.run/products/small-bird-cap",
       "currency": "USD"
     },
     "name:Women&#x27;s Aestas Crew Neck Pullover||": {
@@ -1262,6 +1249,19 @@
       "url": "https://enroute.run/products/womens",
       "currency": "USD"
     },
+    "name:Women&#x27;s Aestas Short 5.5&quot;||": {
+      "handle": "womens-aestas-shorts-5-5",
+      "title": "Women&#x27;s Aestas Short 5.5&quot;",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-aestas-shorts-5-5",
+      "currency": "USD"
+    },
     "name:Women&#x27;s Beta AR Jacket||": {
       "handle": "womens-beta-ar-jacket",
       "title": "Women&#x27;s Beta AR Jacket",
@@ -1273,6 +1273,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-beta-ar-jacket",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Beta Insulated Jacket||": {
+      "handle": "womens-beta-insulated-jacket",
+      "title": "Women&#x27;s Beta Insulated Jacket",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 900,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-beta-insulated-jacket",
       "currency": "USD"
     },
     "name:Women&#x27;s Beta Jacket||": {
@@ -1301,45 +1314,6 @@
       "url": "https://enroute.run/products/womens-cerium-hoody",
       "currency": "USD"
     },
-    "name:Women&#x27;s Cerium Vest||": {
-      "handle": "womens-cerium-vest",
-      "title": "Women&#x27;s Cerium Vest",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 360,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-cerium-vest",
-      "currency": "USD"
-    },
-    "name:Gamma SL Short 9&quot;||": {
-      "handle": "mens-gamma-sl-short-9",
-      "title": "Gamma SL Short 9&quot;",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 140,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-sl-short-9",
-      "currency": "USD"
-    },
-    "name:Kragg Cotton Shorts 9&#x27;||": {
-      "handle": "mens-kragg-cotton-shorts-9",
-      "title": "Kragg Cotton Shorts 9&#x27;",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 140,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-kragg-cotton-shorts-9",
-      "currency": "USD"
-    },
     "name:Women&#x27;s Delta Crew Neck Pullover||": {
       "handle": "womens-delta-crew-neck-pullover",
       "title": "Women&#x27;s Delta Crew Neck Pullover",
@@ -1351,32 +1325,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-delta-crew-neck-pullover",
-      "currency": "USD"
-    },
-    "name:Kyanite Jacket||": {
-      "handle": "mens-kyanite-jacket",
-      "title": "Kyanite Jacket",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 220,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-kyanite-jacket",
-      "currency": "USD"
-    },
-    "name:Women&#x27;s Emblem Fleece Crew Neck Pullover||": {
-      "handle": "womens-emblem-fleece-crew-neck-pullover",
-      "title": "Women&#x27;s Emblem Fleece Crew Neck Pullover",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 130,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-emblem-fleece-crew-neck-pullover",
       "currency": "USD"
     },
     "name:Women&#x27;s Delta Jacket||": {
@@ -1392,6 +1340,32 @@
       "url": "https://enroute.run/products/womens-delta-jacket",
       "currency": "USD"
     },
+    "name:Women&#x27;s Emblem Fleece Crew Neck Pullover||": {
+      "handle": "womens-emblem-fleece-crew-neck-pullover",
+      "title": "Women&#x27;s Emblem Fleece Crew Neck Pullover",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 130,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-emblem-fleece-crew-neck-pullover",
+      "currency": "USD"
+    },
+    "name:Norvan Shell Jacket||": {
+      "handle": "arcteryx-mens-norvan-shell-jacket",
+      "title": "Norvan Shell Jacket",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 500,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-norvan-shell-jacket",
+      "currency": "USD"
+    },
     "name:Women&#x27;s Essent High-Rise Utility Legging 26&quot;||": {
       "handle": "womens-essent-high-rise-utility-legging-26",
       "title": "Women&#x27;s Essent High-Rise Utility Legging 26&quot;",
@@ -1405,30 +1379,43 @@
       "url": "https://enroute.run/products/womens-essent-high-rise-utility-legging-26",
       "currency": "USD"
     },
-    "name:Women&#x27;s Emblem Fleece Jogger||": {
-      "handle": "womens-emblem-fleece-jogger",
-      "title": "Women&#x27;s Emblem Fleece Jogger",
+    "name:Beta Jacket||": {
+      "handle": "mens-beta-jacket",
+      "title": "Beta Jacket",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 130,
+      "price_cents": 500,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-emblem-fleece-jogger",
+      "url": "https://enroute.run/products/mens-beta-jacket",
       "currency": "USD"
     },
-    "name:Women&#x27;s Essent High-Rise Utility Short 8&quot;||": {
-      "handle": "womens-essent-high-rise-utility-short-8",
-      "title": "Women&#x27;s Essent High-Rise Utility Short 8&quot;",
+    "name:Kragg SL Cotton Shirt LS||": {
+      "handle": "kragg-sl-cotton-shirt-ls",
+      "title": "Kragg SL Cotton Shirt LS",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 110,
+      "price_cents": 80,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-essent-high-rise-utility-short-8",
+      "url": "https://enroute.run/products/kragg-sl-cotton-shirt-ls",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Gamma Hoody||": {
+      "handle": "womens-gamma-hoody",
+      "title": "Women&#x27;s Gamma Hoody",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 360,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-gamma-hoody",
       "currency": "USD"
     },
     "name:Women&#x27;s Gamma Lightweight Hoody||": {
@@ -1444,43 +1431,56 @@
       "url": "https://enroute.run/products/womens-gamma-lightweight-hoody",
       "currency": "USD"
     },
-    "name:Sima Pullover Hoody||": {
-      "handle": "mens-sima-pullover-hoody",
-      "title": "Sima Pullover Hoody",
+    "name:Delta Hoody||": {
+      "handle": "mens-delta-hoody",
+      "title": "Delta Hoody",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 170,
+      "price_cents": 260,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-sima-pullover-hoody",
+      "url": "https://enroute.run/products/mens-delta-hoody",
       "currency": "USD"
     },
-    "name:Thorium Hoody||": {
-      "handle": "mens-thorium-hoody-copy",
-      "title": "Thorium Hoody",
+    "name:Gamma Hoody||": {
+      "handle": "mens-gamma-hoody",
+      "title": "Gamma Hoody",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 600,
+      "price_cents": 360,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-thorium-hoody-copy",
+      "url": "https://enroute.run/products/mens-gamma-hoody",
       "currency": "USD"
     },
-    "name:Women&#x27;s Kragg Insulated Shoes||": {
-      "handle": "womens-kragg-insulated-shoes",
-      "title": "Women&#x27;s Kragg Insulated Shoes",
+    "name:Women&#x27;s Kragg Cotton Bird Crew Neck Shirt LS||": {
+      "handle": "womens-kragg-cotton-bird-crew-neck-shirt-ls",
+      "title": "Women&#x27;s Kragg Cotton Bird Crew Neck Shirt LS",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 120,
+      "price_cents": 100,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-kragg-insulated-shoes",
+      "url": "https://enroute.run/products/womens-kragg-cotton-bird-crew-neck-shirt-ls",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Kragg Cotton Little Bird Crew Shirt SS||": {
+      "handle": "womens-kragg-cotton-little-bird-crew-shirt-ss",
+      "title": "Women&#x27;s Kragg Cotton Little Bird Crew Shirt SS",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 80,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-kragg-cotton-little-bird-crew-shirt-ss",
       "currency": "USD"
     },
     "name:Women&#x27;s Kragg Shoes||": {
@@ -1522,19 +1522,6 @@
       "url": "https://enroute.run/products/womens-kyanite-lt-hoody",
       "currency": "USD"
     },
-    "name:Women&#x27;s Norvan LD 4 GTX||": {
-      "handle": "womens-norvan-ld-4-gtx",
-      "title": "Women&#x27;s Norvan LD 4 GTX",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 240,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
-      "currency": "USD"
-    },
     "name:Women&#x27;s Norvan LD 4||": {
       "handle": "womens-norvan-ld-4",
       "title": "Women&#x27;s Norvan LD 4",
@@ -1546,6 +1533,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-norvan-ld-4",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Norvan LD 4 GTX||": {
+      "handle": "womens-norvan-ld-4-gtx",
+      "title": "Women&#x27;s Norvan LD 4 GTX",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 240,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
       "currency": "USD"
     },
     "name:Women&#x27;s Norvan Short 5&quot;||": {
@@ -1561,17 +1561,17 @@
       "url": "https://enroute.run/products/womens-norvan-short-5",
       "currency": "USD"
     },
-    "name:Women&#x27;s Proton SL Hoody||": {
-      "handle": "womens-proton-sl-hoody",
-      "title": "Women&#x27;s Proton SL Hoody",
+    "name:Men&#x27;s Incendo Pant||": {
+      "handle": "mens-incendo-pant",
+      "title": "Men&#x27;s Incendo Pant",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 340,
+      "price_cents": 160,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-proton-sl-hoody",
+      "url": "https://enroute.run/products/mens-incendo-pant",
       "currency": "USD"
     },
     "name:Women&#x27;s Rho Bottom||": {
@@ -1585,6 +1585,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-rho-bottom",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Proton SL Hoody||": {
+      "handle": "womens-proton-sl-hoody",
+      "title": "Women&#x27;s Proton SL Hoody",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 340,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-proton-sl-hoody",
       "currency": "USD"
     },
     "name:Women&#x27;s Rho Crew Neck LS||": {
@@ -1613,19 +1626,6 @@
       "url": "https://enroute.run/products/womens-rho-hoody",
       "currency": "USD"
     },
-    "name:Women&#x27;s Soria Tank||": {
-      "handle": "womens-soria-tank",
-      "title": "Women&#x27;s Soria Tank",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 70,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-soria-tank",
-      "currency": "USD"
-    },
     "name:Women&#x27;s Sylan Pro||": {
       "handle": "womens-sylan-pro",
       "title": "Women&#x27;s Sylan Pro",
@@ -1639,17 +1639,17 @@
       "url": "https://enroute.run/products/womens-sylan-pro",
       "currency": "USD"
     },
-    "name:Konseal Crew Neck Pullover||": {
-      "handle": "konseal-crew-neck-pullover",
-      "title": "Konseal Crew Neck Pullover",
+    "name:Women&#x27;s Soria Tank||": {
+      "handle": "womens-soria-tank",
+      "title": "Women&#x27;s Soria Tank",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 220,
+      "price_cents": 70,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/konseal-crew-neck-pullover",
+      "url": "https://enroute.run/products/womens-soria-tank",
       "currency": "USD"
     },
     "name:Women&#x27;s Taema Crew Neck Shirt LS||": {
@@ -1691,19 +1691,6 @@
       "url": "https://enroute.run/products/womens-thorium-vest",
       "currency": "USD"
     },
-    "name:Women&#x27;s Beta Insulated Jacket||": {
-      "handle": "womens-beta-insulated-jacket",
-      "title": "Women&#x27;s Beta Insulated Jacket",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 900,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-beta-insulated-jacket",
-      "currency": "USD"
-    },
     "name:Word Head Toque||": {
       "handle": "word-head-toque",
       "title": "Word Head Toque",
@@ -1717,9 +1704,9 @@
       "url": "https://enroute.run/products/word-head-toque",
       "currency": "USD"
     },
-    "name:Women&#x27;s Gamma Hoody||": {
-      "handle": "womens-gamma-hoody",
-      "title": "Women&#x27;s Gamma Hoody",
+    "name:Women&#x27;s Cerium Vest||": {
+      "handle": "womens-cerium-vest",
+      "title": "Women&#x27;s Cerium Vest",
       "color": "",
       "size": "",
       "available": false,
@@ -1727,33 +1714,46 @@
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-gamma-hoody",
+      "url": "https://enroute.run/products/womens-cerium-vest",
       "currency": "USD"
     },
-    "name:Women&#x27;s Kragg Cotton Bird Crew Neck Shirt LS||": {
-      "handle": "womens-kragg-cotton-bird-crew-neck-shirt-ls",
-      "title": "Women&#x27;s Kragg Cotton Bird Crew Neck Shirt LS",
+    "name:Women&#x27;s Emblem Fleece Jogger||": {
+      "handle": "womens-emblem-fleece-jogger",
+      "title": "Women&#x27;s Emblem Fleece Jogger",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 100,
+      "price_cents": 130,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-kragg-cotton-bird-crew-neck-shirt-ls",
+      "url": "https://enroute.run/products/womens-emblem-fleece-jogger",
       "currency": "USD"
     },
-    "name:Women&#x27;s Kragg Cotton Little Bird Crew Shirt SS||": {
-      "handle": "womens-kragg-cotton-little-bird-crew-shirt-ss",
-      "title": "Women&#x27;s Kragg Cotton Little Bird Crew Shirt SS",
+    "name:Women&#x27;s Essent High-Rise Utility Short 8&quot;||": {
+      "handle": "womens-essent-high-rise-utility-short-8",
+      "title": "Women&#x27;s Essent High-Rise Utility Short 8&quot;",
       "color": "",
       "size": "",
-      "available": true,
-      "price_cents": 80,
+      "available": false,
+      "price_cents": 110,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-kragg-cotton-little-bird-crew-shirt-ss",
+      "url": "https://enroute.run/products/womens-essent-high-rise-utility-short-8",
+      "currency": "USD"
+    },
+    "name:Women&#x27;s Kragg Insulated Shoes||": {
+      "handle": "womens-kragg-insulated-shoes",
+      "title": "Women&#x27;s Kragg Insulated Shoes",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-kragg-insulated-shoes",
       "currency": "USD"
     }
   }
