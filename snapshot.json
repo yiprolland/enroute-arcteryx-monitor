@@ -1,53 +1,52 @@
 {
   "version": 2,
   "products": {
-    "arcteryx-mens-kyanite-pant": "Arc&#x27;teryx Kyanite Pant – Pants",
     "arcteryx-mens-ionia-merino-wool-hoody": "Arc&#x27;teryx Ionia Merino Wool Hoody – Sweatshirt",
-    "arcteryx-granville-crossbody-bag": "Arc&#x27;teryx Granville Crossbody Bag – Bag",
     "arcteryx-mens-kyanite-pullover-hood": "Arc&#x27;teryx Kyanite Pullover Hoody – Sweatshirt",
-    "arcteryx-mens-cormac-crew-ls": "Arc&#x27;teryx Cormac Crew Neck Shirt LS – Sweatshirt",
-    "arcteryx-mantis-2-waist-pack": "Arc&#x27;teryx Mantis 2 Waist Pack – Pack",
-    "arcteryx-mens-norvan-shell-jacket": "Arc&#x27;teryx Norvan Shell Jacket – Jacket",
-    "arcteryx-mens-norvan-ld-3": "Arc&#x27;teryx Norvan LD 3 – Trail",
     "arcteryx-mens-beta-sl-jacket": "Arc&#x27;teryx Beta SL Jacket – Jacket",
-    "arcteryx-mantis-1-waist-pack": "Arc&#x27;teryx Mantis 1 Waist Pack – Pack",
-    "arcteryx-mens-norvan-short-5": "Arc&#x27;teryx Norvan Short 5&#x27; – Bottoms",
-    "arcteryx-mens-proton-hoody": "Arc&#x27;teryx Proton Hoody – Sweatshirt",
-    "arcteryx-mens-rho-lt-bottom": "Arc&#x27;teryx Rho LT Bottom – Pants",
-    "arcteryx-mens-proton-hybrid-hoody": "Arc&#x27;teryx Proton Hybrid Hoody – Sweatshirt",
+    "arcteryx-granville-crossbody-bag": "Arc&#x27;teryx Granville Crossbody Bag – Bag",
     "arcteryx-mens-atom-jacket": "Arc&#x27;teryx Atom Jacket – Jacket",
-    "arcteryx-womens-atom-hoody": "Arc&#x27;teryx Women&#x27;s Atom Hoody – Sweatshirt",
+    "arcteryx-mens-norvan-shell-jacket": "Arc&#x27;teryx Norvan Shell Jacket – Jacket",
+    "arcteryx-mantis-1-waist-pack": "Arc&#x27;teryx Mantis 1 Waist Pack – Pack",
+    "arcteryx-mens-rho-lt-bottom": "Arc&#x27;teryx Rho LT Bottom – Pants",
+    "arcteryx-mens-proton-hoody": "Arc&#x27;teryx Proton Hoody – Sweatshirt",
+    "arcteryx-mens-norvan-ld-3": "Arc&#x27;teryx Norvan LD 3 – Trail",
+    "arcteryx-mens-proton-hybrid-hoody": "Arc&#x27;teryx Proton Hybrid Hoody – Sweatshirt",
+    "arcteryx-mens-norvan-short-5": "Arc&#x27;teryx Norvan Short 5&#x27; – Bottoms",
     "arcteryx-mens-sylan-gtx": "Arc&#x27;teryx Sylan GTX – Trail",
     "arcteryx-rho-headband": "Arc&#x27;teryx Rho Headband – Headwear",
+    "arcteryx-womens-kyanite-baselayer-zip-neck": "Arc&#x27;teryx Women&#x27;s Kyanite Baselayer Zip Neck – Jacket",
     "arcteryx-womens-kyanite-hoody": "Arc&#x27;teryx Women&#x27;s Kyanite Hoody – Sweatshirt",
-    "arcteryx-womens-lana-merino-wool-crew-ls": "Arc&#x27;teryx Women&#x27;s Lana Merino Wool Crew LS – Sweatshirt",
-    "arcteryx-womens-norvan-crew-ls": "Arc&#x27;teryx Women&#x27;s Norvan Crew LS – Sweatshirt",
     "arcteryx-womens-beta-sl-jacket": "Arc&#x27;teryx Women&#x27;s Beta SL Jacket – Jacket",
+    "arcteryx-womens-lana-merino-wool-crew-ls": "Arc&#x27;teryx Women&#x27;s Lana Merino Wool Crew LS – Sweatshirt",
+    "arcteryx-womens-atom-vest": "Arc&#x27;teryx Women&#x27;s Atom Vest – Vest",
+    "arcteryx-womens-norvan-crew-ls": "Arc&#x27;teryx Women&#x27;s Norvan Crew LS – Sweatshirt",
     "arcteryx-womens-norvan-insulated-hoody": "Arc&#x27;teryx Women&#x27;s Norvan Insulated Hoody – Jacket",
     "arcteryx-womens-norvan-7-vest": "Arc&#x27;teryx Women&#x27;s Norvan 7 Vest – Accessories",
     "arcteryx-womens-norvan-ld-3": "Arc&#x27;teryx Women&#x27;s Norvan LD 3 – Trail",
-    "arcteryx-womens-norvan-crew-ss": "Arc&#x27;teryx Women&#x27;s Norvan Crew Neck Shirt SS – Top",
+    "arcteryx-womens-norvan-shell-jacket": "Arc&#x27;teryx Women&#x27;s Norvan Shell Jacket – Jacket",
     "arcteryx-womens-norvan-tank": "Arc&#x27;teryx Women&#x27;s Norvan Tank – Top",
-    "arcteryx-womens-taema-hoody": "Arc&#x27;teryx Women&#x27;s Taema Hoody – Sweatshirt",
     "arcteryx-womens-proton-hybrid-hoody": "Arc&#x27;teryx Women&#x27;s Proton Hybrid Hoody – Jacket",
-    "arcteryx-womens-rho-merino-wool-ls-crew": "Arc&#x27;teryx Women&#x27;s Rho Merino Wool LS Crew – Sweatshirt",
+    "arcteryx-womens-rho-ls-crew": "Arc&#x27;teryx Women&#x27;s Rho LS Crew – Sweatshirt",
     "arcteryx-womens-sylan-gtx": "Arc&#x27;teryx Women&#x27;s Sylan GTX – Trail",
+    "arcteryx-womens-taema-hoody": "Arc&#x27;teryx Women&#x27;s Taema Hoody – Sweatshirt",
+    "bird-head-toque": "Arc&#x27;teryx Bird Head Toque – Cap",
     "bird-word-cap": "Arc&#x27;teryx Bird Word Cap – Cap",
-    "bird-word-torque": "Arc&#x27;teryx Bird Word Toque – Cap",
     "atom-hoody-1": "Arc&#x27;teryx Atom Hoody – Sweatshirt",
+    "bird-word-torque": "Arc&#x27;teryx Bird Word Toque – Cap",
     "bird-word-trucker-hat": "Arc&#x27;teryx Bird Word Trucker Hat – Cap",
-    "covert-cardigan": "Arc&#x27;teryx Covert Cardigan – Sweatshirt",
     "cronin-cotton-overshirt": "Arc&#x27;teryx Cronin Cotton Overshirt – Sweatshirt",
     "emblem-fleece-hoody": "Arc&#x27;teryx Emblem Fleece Hoody – Sweatshirt",
     "emblem-fleece-jogger": "Arc&#x27;teryx Emblem Fleece Jogger – Pants",
     "gamma-5-panel-cap": "Arc&#x27;teryx Gamma 5 Panel Cap – Headwear",
     "gamma-hoody": "Arc&#x27;teryx Gamma Hoody – Sweatshirt",
     "gamma-sl-short-11": "Arc&#x27;teryx Gamma SL Short 11&quot; – Bottoms",
-    "granville-25-backpack": "Arc&#x27;teryx Granville 25 Backpack – Bag",
     "granville-16-backpack": "Arc&#x27;teryx Granville 16 Backpack – Bag",
+    "granville-25-backpack": "Arc&#x27;teryx Granville 25 Backpack – Bag",
     "heliad-crossbody-bag": "Arc&#x27;teryx Heliad Crossbody Bag – Bag",
     "konseal-crew-neck-pullover": "Arc&#x27;teryx Konseal Crew Neck Pullover – Sweatshirt",
     "konseal-pocket-ss-1": "Arc&#x27;teryx Konseal Pocket SS – Sweatshirt",
+    "konseal-pullover-hoody": "Arc&#x27;teryx Konseal Pullover Hoody – Sweatshirt",
     "kragg-cotton-lithographica-ss": "Arc&#x27;teryx Kragg Cotton Lithographica SS – Top",
     "kragg-cotton-pant": "Arc&#x27;teryx Kragg Cotton Pant – Top",
     "kragg-cotton-pant-copy": "Arc&#x27;teryx Women&#x27;s Kragg Cotton Pant – Top",
@@ -57,12 +56,13 @@
     "mens-cerium-jacket": "Arc&#x27;teryx Cerium Jacket – Jacket",
     "mens-delta-hoody": "Arc&#x27;teryx Delta Hoody – Sweatshirt",
     "mens-delta-pullover-hoody": "Arc&#x27;teryx Delta Pullover Hoody – Sweatshirt",
-    "mens-gamma-pant": "Arc&#x27;teryx Gamma Pant – Pants",
     "mens-gamma-jogger": "Arc&#x27;teryx Gamma Jogger – Pants",
-    "mens-gamma-sl-short-9": "Arc&#x27;teryx Gamma SL Short 9&quot; – Bottoms",
+    "mens-gamma-pant": "Arc&#x27;teryx Gamma Pant – Pants",
     "mens-gamma-quick-dry-short-9": "Arc&#x27;teryx Gamma Quick Dry Short 9&quot; – Bottoms",
-    "mens-kragg-cotton-shirt-ls": "Arc&#x27;teryx Kragg Cotton Shirt LS – Sweatshirt",
+    "mens-gamma-sl-short-9": "Arc&#x27;teryx Gamma SL Short 9&quot; – Bottoms",
     "mens-incendo-pant": "Arc&#x27;teryx Incendo Pant – Pants",
+    "mens-kragg-cotton-shirt-ls": "Arc&#x27;teryx Kragg Cotton Shirt LS – Sweatshirt",
+    "mens-kragg-cotton-shorts-9": "Arc&#x27;teryx Kragg Cotton Shorts 9&#x27; – Bottoms",
     "mens-kragg-shoe": "Arc&#x27;teryx Kragg Shoe – Recovery",
     "mens-kragg-sl-cotton-ss": "Arc&#x27;teryx Kragg SL Cotton SS – Top",
     "mens-norvan-7-vest": "Arc&#x27;teryx Norvan 7 Vest – Accessories",
@@ -110,28 +110,15 @@
     "womens-taema-crew-neck-shirt-ls": "Arc&#x27;teryx Women&#x27;s Taema Crew Neck Shirt LS – Top",
     "womens-taema-tank": "Arc&#x27;teryx Women&#x27;s Taema Tank – Top",
     "word-head-toque": "Arc&#x27;teryx Word Head Toque – Cap",
-    "arcteryx-womens-kyanite-baselayer-zip-neck": "Arc&#x27;teryx Women&#x27;s Kyanite Baselayer Zip Neck – Jacket",
-    "arcteryx-womens-atom-vest": "Arc&#x27;teryx Women&#x27;s Atom Vest – Vest",
-    "arcteryx-womens-rho-ls-crew": "Arc&#x27;teryx Women&#x27;s Rho LS Crew – Sweatshirt",
-    "bird-head-toque": "Arc&#x27;teryx Bird Head Toque – Cap",
-    "konseal-pullover-hoody": "Arc&#x27;teryx Konseal Pullover Hoody – Sweatshirt",
-    "mens-kragg-cotton-shorts-9": "Arc&#x27;teryx Kragg Cotton Shorts 9&#x27; – Bottoms",
-    "arcteryx-womens-norvan-shell-jacket": "Arc&#x27;teryx Women&#x27;s Norvan Shell Jacket – Jacket"
+    "arcteryx-mens-kyanite-pant": "Arc&#x27;teryx Kyanite Pant – Pants",
+    "arcteryx-mantis-2-waist-pack": "Arc&#x27;teryx Mantis 2 Waist Pack – Pack",
+    "arcteryx-mens-cormac-crew-ls": "Arc&#x27;teryx Cormac Crew Neck Shirt LS – Sweatshirt",
+    "arcteryx-womens-atom-hoody": "Arc&#x27;teryx Women&#x27;s Atom Hoody – Sweatshirt",
+    "arcteryx-womens-norvan-crew-ss": "Arc&#x27;teryx Women&#x27;s Norvan Crew Neck Shirt SS – Top",
+    "arcteryx-womens-rho-merino-wool-ls-crew": "Arc&#x27;teryx Women&#x27;s Rho Merino Wool LS Crew – Sweatshirt",
+    "covert-cardigan": "Arc&#x27;teryx Covert Cardigan – Sweatshirt"
   },
   "variants": {
-    "name:Arc&#x27;teryx Kyanite Pant – Pants||": {
-      "handle": "arcteryx-mens-kyanite-pant",
-      "title": "Arc&#x27;teryx Kyanite Pant – Pants",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 190,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-kyanite-pant",
-      "currency": "USD"
-    },
     "name:Arc&#x27;teryx Ionia Merino Wool Hoody – Sweatshirt||": {
       "handle": "arcteryx-mens-ionia-merino-wool-hoody",
       "title": "Arc&#x27;teryx Ionia Merino Wool Hoody – Sweatshirt",
@@ -143,19 +130,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/arcteryx-mens-ionia-merino-wool-hoody",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Granville Crossbody Bag – Bag||": {
-      "handle": "arcteryx-granville-crossbody-bag",
-      "title": "Arc&#x27;teryx Granville Crossbody Bag – Bag",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 120,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-granville-crossbody-bag",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Kyanite Pullover Hoody – Sweatshirt||": {
@@ -171,58 +145,6 @@
       "url": "https://enroute.run/products/arcteryx-mens-kyanite-pullover-hood",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Cormac Crew Neck Shirt LS – Sweatshirt||": {
-      "handle": "arcteryx-mens-cormac-crew-ls",
-      "title": "Arc&#x27;teryx Cormac Crew Neck Shirt LS – Sweatshirt",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 80,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-cormac-crew-ls",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Mantis 2 Waist Pack – Pack||": {
-      "handle": "arcteryx-mantis-2-waist-pack",
-      "title": "Arc&#x27;teryx Mantis 2 Waist Pack – Pack",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 65,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mantis-2-waist-pack",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Norvan Shell Jacket – Jacket||": {
-      "handle": "arcteryx-mens-norvan-shell-jacket",
-      "title": "Arc&#x27;teryx Norvan Shell Jacket – Jacket",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 500,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-norvan-shell-jacket",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Norvan LD 3 – Trail||": {
-      "handle": "arcteryx-mens-norvan-ld-3",
-      "title": "Arc&#x27;teryx Norvan LD 3 – Trail",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 160,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-norvan-ld-3",
-      "currency": "USD"
-    },
     "name:Arc&#x27;teryx Beta SL Jacket – Jacket||": {
       "handle": "mens-beta-sl-jacket",
       "title": "Arc&#x27;teryx Beta SL Jacket – Jacket",
@@ -236,48 +158,9 @@
       "url": "https://enroute.run/products/mens-beta-sl-jacket",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Mantis 1 Waist Pack – Pack||": {
-      "handle": "arcteryx-mantis-1-waist-pack",
-      "title": "Arc&#x27;teryx Mantis 1 Waist Pack – Pack",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 55,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Norvan Short 5&#x27; – Bottoms||": {
-      "handle": "arcteryx-mens-norvan-short-5",
-      "title": "Arc&#x27;teryx Norvan Short 5&#x27; – Bottoms",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 110,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-norvan-short-5",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Proton Hoody – Sweatshirt||": {
-      "handle": "arcteryx-mens-proton-hoody",
-      "title": "Arc&#x27;teryx Proton Hoody – Sweatshirt",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 400,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-proton-hoody",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Rho LT Bottom – Pants||": {
-      "handle": "arcteryx-mens-rho-lt-bottom",
-      "title": "Arc&#x27;teryx Rho LT Bottom – Pants",
+    "name:Arc&#x27;teryx Granville Crossbody Bag – Bag||": {
+      "handle": "arcteryx-granville-crossbody-bag",
+      "title": "Arc&#x27;teryx Granville Crossbody Bag – Bag",
       "color": "",
       "size": "",
       "available": false,
@@ -285,20 +168,7 @@
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-bottom",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Proton Hybrid Hoody – Sweatshirt||": {
-      "handle": "arcteryx-mens-proton-hybrid-hoody",
-      "title": "Arc&#x27;teryx Proton Hybrid Hoody – Sweatshirt",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 400,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-proton-hybrid-hoody",
+      "url": "https://enroute.run/products/arcteryx-granville-crossbody-bag",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Atom Jacket – Jacket||": {
@@ -314,17 +184,95 @@
       "url": "https://enroute.run/products/arcteryx-mens-atom-jacket",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Atom Hoody – Sweatshirt||": {
-      "handle": "arcteryx-womens-atom-hoody",
-      "title": "Arc&#x27;teryx Women&#x27;s Atom Hoody – Sweatshirt",
+    "name:Arc&#x27;teryx Norvan Shell Jacket – Jacket||": {
+      "handle": "arcteryx-mens-norvan-shell-jacket",
+      "title": "Arc&#x27;teryx Norvan Shell Jacket – Jacket",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 360,
+      "price_cents": 500,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-atom-hoody",
+      "url": "https://enroute.run/products/arcteryx-mens-norvan-shell-jacket",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Mantis 1 Waist Pack – Pack||": {
+      "handle": "arcteryx-mantis-1-waist-pack",
+      "title": "Arc&#x27;teryx Mantis 1 Waist Pack – Pack",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 55,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Rho LT Bottom – Pants||": {
+      "handle": "arcteryx-mens-rho-lt-bottom",
+      "title": "Arc&#x27;teryx Rho LT Bottom – Pants",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-bottom",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Proton Hoody – Sweatshirt||": {
+      "handle": "arcteryx-mens-proton-hoody",
+      "title": "Arc&#x27;teryx Proton Hoody – Sweatshirt",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 400,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-proton-hoody",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Norvan LD 3 – Trail||": {
+      "handle": "arcteryx-mens-norvan-ld-3",
+      "title": "Arc&#x27;teryx Norvan LD 3 – Trail",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 160,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-norvan-ld-3",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Proton Hybrid Hoody – Sweatshirt||": {
+      "handle": "arcteryx-mens-proton-hybrid-hoody",
+      "title": "Arc&#x27;teryx Proton Hybrid Hoody – Sweatshirt",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 400,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-proton-hybrid-hoody",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Norvan Short 5&#x27; – Bottoms||": {
+      "handle": "arcteryx-mens-norvan-short-5",
+      "title": "Arc&#x27;teryx Norvan Short 5&#x27; – Bottoms",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 110,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-norvan-short-5",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Sylan GTX – Trail||": {
@@ -353,6 +301,19 @@
       "url": "https://enroute.run/products/arcteryx-rho-headband",
       "currency": "USD"
     },
+    "name:Arc&#x27;teryx Women&#x27;s Kyanite Baselayer Zip Neck – Jacket||": {
+      "handle": "arcteryx-womens-kyanite-baselayer-zip-neck",
+      "title": "Arc&#x27;teryx Women&#x27;s Kyanite Baselayer Zip Neck – Jacket",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 170,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-kyanite-baselayer-zip-neck",
+      "currency": "USD"
+    },
     "name:Arc&#x27;teryx Women&#x27;s Kyanite Hoody – Sweatshirt||": {
       "handle": "womens-kyanite-hoody",
       "title": "Arc&#x27;teryx Women&#x27;s Kyanite Hoody – Sweatshirt",
@@ -364,6 +325,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-kyanite-hoody",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Women&#x27;s Beta SL Jacket – Jacket||": {
+      "handle": "arcteryx-womens-beta-sl-jacket",
+      "title": "Arc&#x27;teryx Women&#x27;s Beta SL Jacket – Jacket",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 600,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-beta-sl-jacket",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Women&#x27;s Lana Merino Wool Crew LS – Sweatshirt||": {
@@ -379,6 +353,19 @@
       "url": "https://enroute.run/products/arcteryx-womens-lana-merino-wool-crew-ls",
       "currency": "USD"
     },
+    "name:Arc&#x27;teryx Women&#x27;s Atom Vest – Vest||": {
+      "handle": "arcteryx-womens-atom-vest",
+      "title": "Arc&#x27;teryx Women&#x27;s Atom Vest – Vest",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 240,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-atom-vest",
+      "currency": "USD"
+    },
     "name:Arc&#x27;teryx Women&#x27;s Norvan Crew LS – Sweatshirt||": {
       "handle": "arcteryx-womens-norvan-crew-ls",
       "title": "Arc&#x27;teryx Women&#x27;s Norvan Crew LS – Sweatshirt",
@@ -390,19 +377,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/arcteryx-womens-norvan-crew-ls",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Women&#x27;s Beta SL Jacket – Jacket||": {
-      "handle": "arcteryx-womens-beta-sl-jacket",
-      "title": "Arc&#x27;teryx Women&#x27;s Beta SL Jacket – Jacket",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 600,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-beta-sl-jacket",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Women&#x27;s Norvan Insulated Hoody – Jacket||": {
@@ -444,17 +418,17 @@
       "url": "https://enroute.run/products/arcteryx-womens-norvan-ld-3",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Norvan Crew Neck Shirt SS – Top||": {
-      "handle": "arcteryx-womens-norvan-crew-ss",
-      "title": "Arc&#x27;teryx Women&#x27;s Norvan Crew Neck Shirt SS – Top",
+    "name:Arc&#x27;teryx Women&#x27;s Norvan Shell Jacket – Jacket||": {
+      "handle": "arcteryx-womens-norvan-shell-jacket",
+      "title": "Arc&#x27;teryx Women&#x27;s Norvan Shell Jacket – Jacket",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 77,
+      "price_cents": 500,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-norvan-crew-ss",
+      "url": "https://enroute.run/products/arcteryx-womens-norvan-shell-jacket",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Women&#x27;s Norvan Tank – Top||": {
@@ -470,19 +444,6 @@
       "url": "https://enroute.run/products/arcteryx-womens-norvan-tank",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Taema Hoody – Sweatshirt||": {
-      "handle": "arcteryx-womens-taema-hoody",
-      "title": "Arc&#x27;teryx Women&#x27;s Taema Hoody – Sweatshirt",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 77,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-taema-hoody",
-      "currency": "USD"
-    },
     "name:Arc&#x27;teryx Women&#x27;s Proton Hybrid Hoody – Jacket||": {
       "handle": "arcteryx-womens-proton-hybrid-hoody",
       "title": "Arc&#x27;teryx Women&#x27;s Proton Hybrid Hoody – Jacket",
@@ -496,17 +457,17 @@
       "url": "https://enroute.run/products/arcteryx-womens-proton-hybrid-hoody",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Rho Merino Wool LS Crew – Sweatshirt||": {
-      "handle": "arcteryx-womens-rho-merino-wool-ls-crew",
-      "title": "Arc&#x27;teryx Women&#x27;s Rho Merino Wool LS Crew – Sweatshirt",
+    "name:Arc&#x27;teryx Women&#x27;s Rho LS Crew – Sweatshirt||": {
+      "handle": "arcteryx-womens-rho-ls-crew",
+      "title": "Arc&#x27;teryx Women&#x27;s Rho LS Crew – Sweatshirt",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 140,
+      "price_cents": 120,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-rho-merino-wool-ls-crew",
+      "url": "https://enroute.run/products/arcteryx-womens-rho-ls-crew",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Women&#x27;s Sylan GTX – Trail||": {
@@ -522,6 +483,32 @@
       "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
       "currency": "USD"
     },
+    "name:Arc&#x27;teryx Women&#x27;s Taema Hoody – Sweatshirt||": {
+      "handle": "arcteryx-womens-taema-hoody",
+      "title": "Arc&#x27;teryx Women&#x27;s Taema Hoody – Sweatshirt",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 77,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-taema-hoody",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Bird Head Toque – Cap||": {
+      "handle": "bird-head-toque",
+      "title": "Arc&#x27;teryx Bird Head Toque – Cap",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 90,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/bird-head-toque",
+      "currency": "USD"
+    },
     "name:Arc&#x27;teryx Bird Word Cap – Cap||": {
       "handle": "bird-word-cap",
       "title": "Arc&#x27;teryx Bird Word Cap – Cap",
@@ -533,19 +520,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/bird-word-cap",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Bird Word Toque – Cap||": {
-      "handle": "bird-word-torque",
-      "title": "Arc&#x27;teryx Bird Word Toque – Cap",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 90,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/bird-word-torque",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Atom Hoody – Sweatshirt||": {
@@ -561,6 +535,19 @@
       "url": "https://enroute.run/products/atom-hoody-1",
       "currency": "USD"
     },
+    "name:Arc&#x27;teryx Bird Word Toque – Cap||": {
+      "handle": "bird-word-torque",
+      "title": "Arc&#x27;teryx Bird Word Toque – Cap",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 90,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/bird-word-torque",
+      "currency": "USD"
+    },
     "name:Arc&#x27;teryx Bird Word Trucker Hat – Cap||": {
       "handle": "bird-word-trucker-hat",
       "title": "Arc&#x27;teryx Bird Word Trucker Hat – Cap",
@@ -572,19 +559,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/bird-word-trucker-hat",
-      "currency": "USD"
-    },
-    "name:Arc&#x27;teryx Covert Cardigan – Sweatshirt||": {
-      "handle": "covert-cardigan",
-      "title": "Arc&#x27;teryx Covert Cardigan – Sweatshirt",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 220,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/covert-cardigan",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Cronin Cotton Overshirt – Sweatshirt||": {
@@ -665,19 +639,6 @@
       "url": "https://enroute.run/products/gamma-sl-short-11",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Granville 25 Backpack – Bag||": {
-      "handle": "granville-25-backpack",
-      "title": "Arc&#x27;teryx Granville 25 Backpack – Bag",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 280,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/granville-25-backpack",
-      "currency": "USD"
-    },
     "name:Arc&#x27;teryx Granville 16 Backpack – Bag||": {
       "handle": "granville-16-backpack",
       "title": "Arc&#x27;teryx Granville 16 Backpack – Bag",
@@ -689,6 +650,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/granville-16-backpack",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Granville 25 Backpack – Bag||": {
+      "handle": "granville-25-backpack",
+      "title": "Arc&#x27;teryx Granville 25 Backpack – Bag",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 280,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/granville-25-backpack",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Heliad Crossbody Bag – Bag||": {
@@ -728,6 +702,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/konseal-pocket-ss-1",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Konseal Pullover Hoody – Sweatshirt||": {
+      "handle": "konseal-pullover-hoody",
+      "title": "Arc&#x27;teryx Konseal Pullover Hoody – Sweatshirt",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 240,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/konseal-pullover-hoody",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Kragg Cotton Lithographica SS – Top||": {
@@ -834,19 +821,6 @@
       "url": "https://enroute.run/products/mens-delta-pullover-hoody",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Gamma Pant – Pants||": {
-      "handle": "mens-gamma-pant",
-      "title": "Arc&#x27;teryx Gamma Pant – Pants",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 260,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-pant",
-      "currency": "USD"
-    },
     "name:Arc&#x27;teryx Gamma Jogger – Pants||": {
       "handle": "mens-gamma-jogger",
       "title": "Arc&#x27;teryx Gamma Jogger – Pants",
@@ -860,17 +834,17 @@
       "url": "https://enroute.run/products/mens-gamma-jogger",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Gamma SL Short 9&quot; – Bottoms||": {
-      "handle": "mens-gamma-sl-short-9",
-      "title": "Arc&#x27;teryx Gamma SL Short 9&quot; – Bottoms",
+    "name:Arc&#x27;teryx Gamma Pant – Pants||": {
+      "handle": "mens-gamma-pant",
+      "title": "Arc&#x27;teryx Gamma Pant – Pants",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 140,
+      "price_cents": 260,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-sl-short-9",
+      "url": "https://enroute.run/products/mens-gamma-pant",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Gamma Quick Dry Short 9&quot; – Bottoms||": {
@@ -886,17 +860,17 @@
       "url": "https://enroute.run/products/mens-gamma-quick-dry-short-9",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Kragg Cotton Shirt LS – Sweatshirt||": {
-      "handle": "mens-kragg-cotton-shirt-ls",
-      "title": "Arc&#x27;teryx Kragg Cotton Shirt LS – Sweatshirt",
+    "name:Arc&#x27;teryx Gamma SL Short 9&quot; – Bottoms||": {
+      "handle": "mens-gamma-sl-short-9",
+      "title": "Arc&#x27;teryx Gamma SL Short 9&quot; – Bottoms",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 100,
+      "price_cents": 140,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-kragg-cotton-shirt-ls",
+      "url": "https://enroute.run/products/mens-gamma-sl-short-9",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Incendo Pant – Pants||": {
@@ -910,6 +884,32 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-incendo-pant",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Kragg Cotton Shirt LS – Sweatshirt||": {
+      "handle": "mens-kragg-cotton-shirt-ls",
+      "title": "Arc&#x27;teryx Kragg Cotton Shirt LS – Sweatshirt",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 100,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-kragg-cotton-shirt-ls",
+      "currency": "USD"
+    },
+    "name:Arc&#x27;teryx Kragg Cotton Shorts 9&#x27; – Bottoms||": {
+      "handle": "mens-kragg-cotton-shorts-9",
+      "title": "Arc&#x27;teryx Kragg Cotton Shorts 9&#x27; – Bottoms",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 140,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-kragg-cotton-shorts-9",
       "currency": "USD"
     },
     "name:Arc&#x27;teryx Kragg Shoe – Recovery||": {
@@ -1510,74 +1510,74 @@
       "url": "https://enroute.run/products/word-head-toque",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Kyanite Baselayer Zip Neck – Jacket||": {
-      "handle": "arcteryx-womens-kyanite-baselayer-zip-neck",
-      "title": "Arc&#x27;teryx Women&#x27;s Kyanite Baselayer Zip Neck – Jacket",
+    "name:Arc&#x27;teryx Kyanite Pant – Pants||": {
+      "handle": "arcteryx-mens-kyanite-pant",
+      "title": "Arc&#x27;teryx Kyanite Pant – Pants",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 170,
+      "price_cents": 190,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-kyanite-baselayer-zip-neck",
+      "url": "https://enroute.run/products/arcteryx-mens-kyanite-pant",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Atom Vest – Vest||": {
-      "handle": "arcteryx-womens-atom-vest",
-      "title": "Arc&#x27;teryx Women&#x27;s Atom Vest – Vest",
+    "name:Arc&#x27;teryx Mantis 2 Waist Pack – Pack||": {
+      "handle": "arcteryx-mantis-2-waist-pack",
+      "title": "Arc&#x27;teryx Mantis 2 Waist Pack – Pack",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 240,
+      "price_cents": 65,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-atom-vest",
+      "url": "https://enroute.run/products/arcteryx-mantis-2-waist-pack",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Rho LS Crew – Sweatshirt||": {
-      "handle": "arcteryx-womens-rho-ls-crew",
-      "title": "Arc&#x27;teryx Women&#x27;s Rho LS Crew – Sweatshirt",
+    "name:Arc&#x27;teryx Cormac Crew Neck Shirt LS – Sweatshirt||": {
+      "handle": "arcteryx-mens-cormac-crew-ls",
+      "title": "Arc&#x27;teryx Cormac Crew Neck Shirt LS – Sweatshirt",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 120,
+      "price_cents": 80,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-rho-ls-crew",
+      "url": "https://enroute.run/products/arcteryx-mens-cormac-crew-ls",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Bird Head Toque – Cap||": {
-      "handle": "bird-head-toque",
-      "title": "Arc&#x27;teryx Bird Head Toque – Cap",
+    "name:Arc&#x27;teryx Women&#x27;s Atom Hoody – Sweatshirt||": {
+      "handle": "arcteryx-womens-atom-hoody",
+      "title": "Arc&#x27;teryx Women&#x27;s Atom Hoody – Sweatshirt",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 90,
+      "price_cents": 360,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/bird-head-toque",
+      "url": "https://enroute.run/products/arcteryx-womens-atom-hoody",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Konseal Pullover Hoody – Sweatshirt||": {
-      "handle": "konseal-pullover-hoody",
-      "title": "Arc&#x27;teryx Konseal Pullover Hoody – Sweatshirt",
+    "name:Arc&#x27;teryx Women&#x27;s Norvan Crew Neck Shirt SS – Top||": {
+      "handle": "arcteryx-womens-norvan-crew-ss",
+      "title": "Arc&#x27;teryx Women&#x27;s Norvan Crew Neck Shirt SS – Top",
       "color": "",
       "size": "",
-      "available": true,
-      "price_cents": 240,
+      "available": false,
+      "price_cents": 77,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/konseal-pullover-hoody",
+      "url": "https://enroute.run/products/arcteryx-womens-norvan-crew-ss",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Kragg Cotton Shorts 9&#x27; – Bottoms||": {
-      "handle": "mens-kragg-cotton-shorts-9",
-      "title": "Arc&#x27;teryx Kragg Cotton Shorts 9&#x27; – Bottoms",
+    "name:Arc&#x27;teryx Women&#x27;s Rho Merino Wool LS Crew – Sweatshirt||": {
+      "handle": "arcteryx-womens-rho-merino-wool-ls-crew",
+      "title": "Arc&#x27;teryx Women&#x27;s Rho Merino Wool LS Crew – Sweatshirt",
       "color": "",
       "size": "",
       "available": false,
@@ -1585,20 +1585,20 @@
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-kragg-cotton-shorts-9",
+      "url": "https://enroute.run/products/arcteryx-womens-rho-merino-wool-ls-crew",
       "currency": "USD"
     },
-    "name:Arc&#x27;teryx Women&#x27;s Norvan Shell Jacket – Jacket||": {
-      "handle": "arcteryx-womens-norvan-shell-jacket",
-      "title": "Arc&#x27;teryx Women&#x27;s Norvan Shell Jacket – Jacket",
+    "name:Arc&#x27;teryx Covert Cardigan – Sweatshirt||": {
+      "handle": "covert-cardigan",
+      "title": "Arc&#x27;teryx Covert Cardigan – Sweatshirt",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 500,
+      "price_cents": 220,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-norvan-shell-jacket",
+      "url": "https://enroute.run/products/covert-cardigan",
       "currency": "USD"
     }
   }
