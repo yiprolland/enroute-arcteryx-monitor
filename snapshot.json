@@ -1,33 +1,20 @@
 {
   "version": 2,
   "products": {
-    "mens-kragg-shoe": "Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "heliad-crossbody-bag": "Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-mens-beta-sl-jacket": "Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-womens-kyanite-hoody": "Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-mens-sylan-gtx": "Arc'teryx Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mantis-1-waist-pack": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-womens-beta-sl-jacket": "Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-kragg-shoe": "Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mantis-1-waist-pack": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-mantis-2-waist-pack": "Arc'teryx Mantis 2 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-norvan-downword-logo-ss": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "womens-norvan-ld-4": "Arc'teryx Women's Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-womens-kyanite-hoody": "Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "womens-norvan-ld-4-gtx": "Arc'teryx Women's Norvan LD 4 GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "womens-norvan-ld-4": "Arc'teryx Women's Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-norvan-downword-logo-ss": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-norvan-ld-4": "Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY"
   },
   "variants": {
-    "name:Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-kragg-shoe",
-      "title": "Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 120,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-kragg-shoe",
-      "currency": "USD"
-    },
     "name:Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
       "handle": "heliad-crossbody-bag",
       "title": "Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
@@ -54,19 +41,6 @@
       "url": "https://enroute.run/products/arcteryx-mens-beta-sl-jacket",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-womens-kyanite-hoody",
-      "title": "Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 240,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-kyanite-hoody",
-      "currency": "USD"
-    },
     "name:Arc'teryx Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
       "handle": "arcteryx-mens-sylan-gtx",
       "title": "Arc'teryx Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
@@ -78,19 +52,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/arcteryx-mens-sylan-gtx",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-mantis-1-waist-pack",
-      "title": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 55,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -106,6 +67,32 @@
       "url": "https://enroute.run/products/arcteryx-womens-beta-sl-jacket",
       "currency": "USD"
     },
+    "name:Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-kragg-shoe",
+      "title": "Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-kragg-shoe",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-mantis-1-waist-pack",
+      "title": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 55,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
+      "currency": "USD"
+    },
     "name:Arc'teryx Mantis 2 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
       "handle": "arcteryx-mantis-2-waist-pack",
       "title": "Arc'teryx Mantis 2 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
@@ -119,17 +106,30 @@
       "url": "https://enroute.run/products/arcteryx-mantis-2-waist-pack",
       "currency": "USD"
     },
-    "name:Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-norvan-downword-logo-ss",
-      "title": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-womens-kyanite-hoody",
+      "title": "Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 110,
+      "price_cents": 240,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
+      "url": "https://enroute.run/products/arcteryx-womens-kyanite-hoody",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Norvan LD 4 GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "womens-norvan-ld-4-gtx",
+      "title": "Arc'teryx Women's Norvan LD 4 GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 240,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -145,17 +145,17 @@
       "url": "https://enroute.run/products/womens-norvan-ld-4",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Norvan LD 4 GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "womens-norvan-ld-4-gtx",
-      "title": "Arc'teryx Women's Norvan LD 4 GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-norvan-downword-logo-ss",
+      "title": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 240,
+      "price_cents": 110,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
+      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
       "currency": "USD"
     },
     "name:Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
