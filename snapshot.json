@@ -2,49 +2,49 @@
   "version": 2,
   "products": {
     "arcteryx-mantis-2-waist-pack": "Arc'teryx Mantis 2 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mens-beta-sl-jacket": "Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mens-atom-jacket": "Arc'teryx Atom Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mens-gamma-mx-hoody": "Arc'teryx Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mens-kyanite-pant": "Arc'teryx Kyanite Pant – Pants - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mens-cormac-crew-ls": "Arc'teryx Cormac Crew Neck Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mantis-1-waist-pack": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-mens-atom-vest": "Arc'teryx Atom Vest – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mens-atom-jacket": "Arc'teryx Atom Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mantis-1-waist-pack": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mens-beta-sl-jacket": "Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mens-cormac-crew-ls": "Arc'teryx Cormac Crew Neck Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mens-kyanite-pant": "Arc'teryx Kyanite Pant – Pants - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mens-gamma-mx-hoody": "Arc'teryx Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-mens-rho-lt-crew-neck": "Arc'teryx Rho LT Crew Neck – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-mens-norvan-short-5": "Arc'teryx Norvan Short 5' – Bottoms - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-mens-sylan-gtx": "Arc'teryx Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-womens-beta-sl-jacket": "Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-womens-atom-hoody": "Arc'teryx Women's Atom Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-rho-headband": "Arc'teryx Rho Headband – Headwear - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-womens-covert-pullover-hoody": "Arc'teryx Women's Covert Pullover Hoody – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-mens-rho-lt-crew-neck": "Arc'teryx Rho LT Crew Neck – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-womens-covert-cardigan": "Arc'teryx Women's Covert Cardigan – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "arcteryx-womens-sylan-gtx": "Arc'teryx Women's Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "bird-head-toque": "Arc'teryx Bird Head Toque – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "bird-word-cap": "Arc'teryx Bird Word Cap – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "kragg-sl-cotton-shirt-ls": "Arc'teryx Kragg SL Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-beta-sl-jacket": "Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-womens-atom-hoody": "Arc'teryx Women's Atom Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-womens-beta-sl-jacket": "Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "arcteryx-womens-kyanite-hoody": "Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "heliad-crossbody-bag": "Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "bird-head-toque": "Arc'teryx Bird Head Toque – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-womens-sylan-gtx": "Arc'teryx Women's Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "kragg-sl-cotton-shirt-ls": "Arc'teryx Kragg SL Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "arcteryx-womens-covert-cardigan": "Arc'teryx Women's Covert Cardigan – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-beta-jacket": "Arc'teryx Beta Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-delta-pullover-hoody": "Arc'teryx Delta Pullover Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "bird-word-cap": "Arc'teryx Bird Word Cap – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-cerium-jacket": "Arc'teryx Cerium Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-gamma-hoody": "Arc'teryx Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-gamma-jacket": "Arc'teryx Gamma Jacket – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-kragg-cotton-shirt-ls": "Arc'teryx Kragg Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-beta-sl-jacket": "Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-delta-pullover-hoody": "Arc'teryx Delta Pullover Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "heliad-crossbody-bag": "Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-kragg-shoe": "Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-gamma-pant": "Arc'teryx Gamma Pant – Pants - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-kyanite-jacket": "Arc'teryx Kyanite Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-norvan-downword-logo-ss": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-kragg-sl-cotton-ss": "Arc'teryx Kragg SL Cotton SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "mens-norvan-ld-4": "Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-kragg-cotton-shirt-ls": "Arc'teryx Kragg Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-norvan-downword-logo-ss": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "womens-cerium-hoody": "Arc'teryx Women's Cerium Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "womens-gamma-hoody": "Arc'teryx Women's Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-gamma-jacket": "Arc'teryx Gamma Jacket – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-gamma-hoody": "Arc'teryx Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "mens-norvan-downword-logo-ls": "Arc'teryx Norvan Downword Logo LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "mens-norvan-ld-4": "Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "womens-gamma-mx-hoody": "Arc'teryx Women's Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "womens-norvan-ld-4": "Arc'teryx Women's Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "womens-norvan-ld-4-gtx": "Arc'teryx Women's Norvan LD 4 GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "womens-gamma-mx-hoody": "Arc'teryx Women's Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "womens-rho-crew-neck-ls": "Arc'teryx Women's Rho Crew Neck LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
     "womens-rho-zip-neck": "Arc'teryx Women's Rho Zip Neck – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-    "womens-sylan-pro": "Arc'teryx Women's Sylan Pro – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY"
+    "womens-sylan-pro": "Arc'teryx Women's Sylan Pro – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "womens-gamma-hoody": "Arc'teryx Women's Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY"
   },
   "variants": {
     "name:Arc'teryx Mantis 2 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -60,17 +60,17 @@
       "url": "https://enroute.run/products/arcteryx-mantis-2-waist-pack",
       "currency": "USD"
     },
-    "name:Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-beta-sl-jacket",
-      "title": "Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Atom Vest – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-mens-atom-vest",
+      "title": "Arc'teryx Atom Vest – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 600,
+      "price_cents": 240,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-beta-sl-jacket",
+      "url": "https://enroute.run/products/arcteryx-mens-atom-vest",
       "currency": "USD"
     },
     "name:Arc'teryx Atom Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -86,30 +86,30 @@
       "url": "https://enroute.run/products/arcteryx-mens-atom-jacket",
       "currency": "USD"
     },
-    "name:Arc'teryx Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-mens-gamma-mx-hoody",
-      "title": "Arc'teryx Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 520,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-gamma-mx-hoody",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Kyanite Pant – Pants - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-mens-kyanite-pant",
-      "title": "Arc'teryx Kyanite Pant – Pants - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-mantis-1-waist-pack",
+      "title": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 190,
+      "price_cents": 55,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-kyanite-pant",
+      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-beta-sl-jacket",
+      "title": "Arc'teryx Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 600,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-beta-sl-jacket",
       "currency": "USD"
     },
     "name:Arc'teryx Cormac Crew Neck Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -125,30 +125,43 @@
       "url": "https://enroute.run/products/arcteryx-mens-cormac-crew-ls",
       "currency": "USD"
     },
-    "name:Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-mantis-1-waist-pack",
-      "title": "Arc'teryx Mantis 1 Waist Pack – Pack - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Kyanite Pant – Pants - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-mens-kyanite-pant",
+      "title": "Arc'teryx Kyanite Pant – Pants - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 55,
+      "price_cents": 190,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
+      "url": "https://enroute.run/products/arcteryx-mens-kyanite-pant",
       "currency": "USD"
     },
-    "name:Arc'teryx Atom Vest – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-mens-atom-vest",
-      "title": "Arc'teryx Atom Vest – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-mens-gamma-mx-hoody",
+      "title": "Arc'teryx Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
-      "available": false,
-      "price_cents": 240,
+      "available": true,
+      "price_cents": 520,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-atom-vest",
+      "url": "https://enroute.run/products/arcteryx-mens-gamma-mx-hoody",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Rho LT Crew Neck – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-mens-rho-lt-crew-neck",
+      "title": "Arc'teryx Rho LT Crew Neck – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-crew-neck",
       "currency": "USD"
     },
     "name:Arc'teryx Norvan Short 5' – Bottoms - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -177,32 +190,6 @@
       "url": "https://enroute.run/products/arcteryx-mens-sylan-gtx",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-womens-beta-sl-jacket",
-      "title": "Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 600,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-beta-sl-jacket",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Atom Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-womens-atom-hoody",
-      "title": "Arc'teryx Women's Atom Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 360,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-atom-hoody",
-      "currency": "USD"
-    },
     "name:Arc'teryx Rho Headband – Headwear - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
       "handle": "arcteryx-rho-headband",
       "title": "Arc'teryx Rho Headband – Headwear - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
@@ -229,82 +216,30 @@
       "url": "https://enroute.run/products/arcteryx-womens-covert-pullover-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Rho LT Crew Neck – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-mens-rho-lt-crew-neck",
-      "title": "Arc'teryx Rho LT Crew Neck – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Women's Atom Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-womens-atom-hoody",
+      "title": "Arc'teryx Women's Atom Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 120,
+      "price_cents": 360,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-crew-neck",
+      "url": "https://enroute.run/products/arcteryx-womens-atom-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Covert Cardigan – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-womens-covert-cardigan",
-      "title": "Arc'teryx Women's Covert Cardigan – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-womens-beta-sl-jacket",
+      "title": "Arc'teryx Women's Beta SL Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 220,
+      "price_cents": 600,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-covert-cardigan",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "arcteryx-womens-sylan-gtx",
-      "title": "Arc'teryx Women's Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 180,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Bird Head Toque – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "bird-head-toque",
-      "title": "Arc'teryx Bird Head Toque – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 75,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/bird-head-toque",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Bird Word Cap – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "bird-word-cap",
-      "title": "Arc'teryx Bird Word Cap – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 60,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/bird-word-cap",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Kragg SL Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "kragg-sl-cotton-shirt-ls",
-      "title": "Arc'teryx Kragg SL Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 90,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/kragg-sl-cotton-shirt-ls",
+      "url": "https://enroute.run/products/arcteryx-womens-beta-sl-jacket",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Kyanite Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -320,17 +255,56 @@
       "url": "https://enroute.run/products/arcteryx-womens-kyanite-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "heliad-crossbody-bag",
-      "title": "Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Bird Head Toque – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "bird-head-toque",
+      "title": "Arc'teryx Bird Head Toque – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
-      "available": false,
+      "available": true,
       "price_cents": 75,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/heliad-crossbody-bag",
+      "url": "https://enroute.run/products/bird-head-toque",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-womens-sylan-gtx",
+      "title": "Arc'teryx Women's Sylan GTX – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 180,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Kragg SL Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "kragg-sl-cotton-shirt-ls",
+      "title": "Arc'teryx Kragg SL Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 90,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/kragg-sl-cotton-shirt-ls",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Covert Cardigan – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "arcteryx-womens-covert-cardigan",
+      "title": "Arc'teryx Women's Covert Cardigan – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 220,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-covert-cardigan",
       "currency": "USD"
     },
     "name:Arc'teryx Beta Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -346,17 +320,17 @@
       "url": "https://enroute.run/products/mens-beta-jacket",
       "currency": "USD"
     },
-    "name:Arc'teryx Delta Pullover Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-delta-pullover-hoody",
-      "title": "Arc'teryx Delta Pullover Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Bird Word Cap – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "bird-word-cap",
+      "title": "Arc'teryx Bird Word Cap – Cap - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 220,
+      "price_cents": 60,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-delta-pullover-hoody",
+      "url": "https://enroute.run/products/bird-word-cap",
       "currency": "USD"
     },
     "name:Arc'teryx Cerium Jacket – Jacket - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -372,43 +346,30 @@
       "url": "https://enroute.run/products/mens-cerium-jacket",
       "currency": "USD"
     },
-    "name:Arc'teryx Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-gamma-hoody",
-      "title": "Arc'teryx Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Delta Pullover Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-delta-pullover-hoody",
+      "title": "Arc'teryx Delta Pullover Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 380,
+      "price_cents": 220,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-hoody",
+      "url": "https://enroute.run/products/mens-delta-pullover-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Gamma Jacket – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-gamma-jacket",
-      "title": "Arc'teryx Gamma Jacket – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "heliad-crossbody-bag",
+      "title": "Arc'teryx Heliad Crossbody Bag – Bag - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 360,
+      "price_cents": 75,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-jacket",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Kragg Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-kragg-cotton-shirt-ls",
-      "title": "Arc'teryx Kragg Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 100,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-kragg-cotton-shirt-ls",
+      "url": "https://enroute.run/products/heliad-crossbody-bag",
       "currency": "USD"
     },
     "name:Arc'teryx Kragg Shoe – Recovery - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -450,19 +411,6 @@
       "url": "https://enroute.run/products/mens-kyanite-jacket",
       "currency": "USD"
     },
-    "name:Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-norvan-downword-logo-ss",
-      "title": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 110,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
-      "currency": "USD"
-    },
     "name:Arc'teryx Kragg SL Cotton SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
       "handle": "mens-kragg-sl-cotton-ss",
       "title": "Arc'teryx Kragg SL Cotton SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
@@ -476,17 +424,30 @@
       "url": "https://enroute.run/products/mens-kragg-sl-cotton-ss",
       "currency": "USD"
     },
-    "name:Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "mens-norvan-ld-4",
-      "title": "Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Kragg Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-kragg-cotton-shirt-ls",
+      "title": "Arc'teryx Kragg Cotton Shirt LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 200,
+      "price_cents": 100,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-norvan-ld-4",
+      "url": "https://enroute.run/products/mens-kragg-cotton-shirt-ls",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-norvan-downword-logo-ss",
+      "title": "Arc'teryx Norvan Downword Logo SS – Top - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 110,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Cerium Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -502,9 +463,22 @@
       "url": "https://enroute.run/products/womens-cerium-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "womens-gamma-hoody",
-      "title": "Arc'teryx Women's Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+    "name:Arc'teryx Gamma Jacket – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-gamma-jacket",
+      "title": "Arc'teryx Gamma Jacket – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 360,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-gamma-jacket",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-gamma-hoody",
+      "title": "Arc'teryx Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
       "color": "",
       "size": "",
       "available": false,
@@ -512,7 +486,7 @@
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-gamma-hoody",
+      "url": "https://enroute.run/products/mens-gamma-hoody",
       "currency": "USD"
     },
     "name:Arc'teryx Norvan Downword Logo LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -526,6 +500,32 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-norvan-downword-logo-ls",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "mens-norvan-ld-4",
+      "title": "Arc'teryx Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 200,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-norvan-ld-4",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "womens-gamma-mx-hoody",
+      "title": "Arc'teryx Women's Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 520,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-gamma-mx-hoody",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Norvan LD 4 – Trail - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -552,19 +552,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
-      "handle": "womens-gamma-mx-hoody",
-      "title": "Arc'teryx Women's Gamma MX Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 520,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-gamma-mx-hoody",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Rho Crew Neck LS – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
@@ -604,6 +591,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-sylan-pro",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY||": {
+      "handle": "womens-gamma-hoody",
+      "title": "Arc'teryx Women's Gamma Hoody – Sweatshirt - ENROUTE.RUN - PREMIUM RUN SPECIALTY",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 380,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-gamma-hoody",
       "currency": "USD"
     }
   }
