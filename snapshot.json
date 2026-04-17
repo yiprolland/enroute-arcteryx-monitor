@@ -1,52 +1,65 @@
 {
   "version": 2,
   "products": {
-    "arcteryx-mens-atom-vest": "Arc'teryx Atom Vest | Running | ENROUTE.RUN",
-    "arcteryx-mens-norvan-short-5": "Arc'teryx Norvan Short 5' – Bottoms",
-    "arcteryx-mens-gamma-mx-hoody": "Arc'teryx Gamma MX Hoody | Running | ENROUTE.RUN",
-    "arcteryx-mantis-2-waist-pack": "Arc'teryx Mantis 2 Waist Pack | ENROUTE.RUN",
-    "arcteryx-mens-atom-jacket": "Arc'teryx Atom Jacket | Running | ENROUTE.RUN",
-    "arcteryx-mens-rho-lt-crew-neck": "Arc'teryx Rho LT Crew Neck | Running | ENROUTE.RUN",
-    "arcteryx-mantis-1-waist-pack": "Arc'teryx Mantis 1 Waist Pack | ENROUTE.RUN",
     "arcteryx-mens-beta-sl-jacket": "Arc'teryx Beta SL Jacket | Running | ENROUTE.RUN",
-    "arcteryx-rho-headband": "Arc'teryx Rho Headband | Running | ENROUTE.RUN",
+    "arcteryx-mens-atom-vest": "Arc'teryx Atom Vest | Running | ENROUTE.RUN",
+    "arcteryx-mantis-2-waist-pack": "Arc'teryx Mantis 2 Waist Pack | ENROUTE.RUN",
+    "arcteryx-mens-norvan-short-5": "Arc'teryx Norvan Short 5' – Bottoms",
+    "arcteryx-mens-atom-jacket": "Arc'teryx Atom Jacket | Running | ENROUTE.RUN",
+    "arcteryx-mantis-1-waist-pack": "Arc'teryx Mantis 1 Waist Pack | ENROUTE.RUN",
+    "arcteryx-mens-gamma-mx-hoody": "Arc'teryx Gamma MX Hoody | Running | ENROUTE.RUN",
     "arcteryx-mens-kyanite-pant": "Arc'teryx Kyanite Pant | Running | ENROUTE.RUN",
-    "arcteryx-womens-covert-cardigan": "Arc'teryx Women's Covert Cardigan | Running | ENROUTE.RUN",
-    "arcteryx-womens-kyanite-hoody": "Arc'teryx Women's Kyanite Hoody | Running | ENROUTE.RUN",
-    "arcteryx-womens-sylan-gtx": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
+    "arcteryx-rho-headband": "Arc'teryx Rho Headband | Running | ENROUTE.RUN",
     "arcteryx-womens-beta-sl-jacket": "Arc'teryx Women's Beta SL Jacket | Running | ENROUTE.RUN",
-    "bird-head-toque": "Arc'teryx Bird Head Toque | ENROUTE.RUN",
-    "kragg-cotton-lithographica-ss": "Arc'teryx Kragg Cotton Lithographica SS | ENROUTE.RUN",
+    "arcteryx-mens-rho-lt-crew-neck": "Arc'teryx Rho LT Crew Neck | Running | ENROUTE.RUN",
+    "arcteryx-womens-covert-cardigan": "Arc'teryx Women's Covert Cardigan | Running | ENROUTE.RUN",
     "arcteryx-womens-atom-hoody": "Arc'teryx Women's Atom Hoody | Running | ENROUTE.RUN",
+    "arcteryx-mens-sylan-gtx": "Arc'teryx Sylan GTX | ENROUTE.RUN",
+    "arcteryx-womens-sylan-gtx": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
+    "arcteryx-womens-kyanite-hoody": "Arc'teryx Women's Kyanite Hoody | Running | ENROUTE.RUN",
+    "bird-head-toque": "Arc'teryx Bird Head Toque | ENROUTE.RUN",
+    "bird-word-cap": "Arc'teryx Bird Word Cap | Running | ENROUTE.RUN",
+    "kragg-cotton-lithographica-ss": "Arc'teryx Kragg Cotton Lithographica SS | ENROUTE.RUN",
     "kragg-sl-cotton-shirt-ls": "Arc'teryx Kragg SL Cotton Shirt LS | Running | ENROUTE.RUN",
     "mens-beta-jacket": "Arc'teryx Beta Jacket | Running | ENROUTE.RUN",
-    "arcteryx-mens-sylan-gtx": "Arc'teryx Sylan GTX | ENROUTE.RUN",
-    "mens-cerium-jacket": "Arc'teryx Cerium Jacket | Running | ENROUTE.RUN",
     "mens-beta-sl-jacket": "Arc'teryx Beta SL Jacket | Running | ENROUTE.RUN",
-    "mens-cormac-logo-shirt-ss": "Arc'teryx Cormac Logo Shirt SS – Top",
-    "bird-word-cap": "Arc'teryx Bird Word Cap | Running | ENROUTE.RUN",
-    "mens-delta-hoody": "Arc'teryx Delta Hoody | Running | ENROUTE.RUN",
-    "mens-gamma-hoody": "Arc'teryx Gamma Hoody | Running | ENROUTE.RUN",
+    "mens-cerium-jacket": "Arc'teryx Cerium Jacket | Running | ENROUTE.RUN",
     "heliad-crossbody-bag": "Arc'teryx Heliad Crossbody Bag | ENROUTE.RUN",
+    "mens-cormac-logo-shirt-ss": "Arc'teryx Cormac Logo Shirt SS – Top",
+    "mens-delta-hoody": "Arc'teryx Delta Hoody | Running | ENROUTE.RUN",
+    "mens-gamma-jacket": "Arc'teryx Gamma Jacket | Running | ENROUTE.RUN",
+    "mens-gamma-hoody": "Arc'teryx Gamma Hoody | Running | ENROUTE.RUN",
     "mens-delta-pullover-hoody": "Arc'teryx Delta Pullover Hoody | Running | ENROUTE.RUN",
     "mens-kragg-cotton-shirt-ls": "Arc'teryx Kragg Cotton Shirt LS | Running | ENROUTE.RUN",
     "mens-gamma-pant": "Arc'teryx Gamma Pant | Running | ENROUTE.RUN",
     "mens-kragg-shoe": "Arc'teryx Kragg Shoe | Training | ENROUTE.RUN",
-    "mens-kyanite-jacket": "Arc'teryx Kyanite Jacket | Running | ENROUTE.RUN",
-    "mens-norvan-downword-logo-ss": "Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN",
-    "mens-gamma-jacket": "Arc'teryx Gamma Jacket | Running | ENROUTE.RUN",
     "mens-kragg-sl-cotton-ss": "Arc'teryx Kragg SL Cotton SS | ENROUTE.RUN",
+    "mens-kyanite-jacket": "Arc'teryx Kyanite Jacket | Running | ENROUTE.RUN",
     "mens-norvan-ld-4": "Arc'teryx Norvan LD 4 | ENROUTE.RUN",
-    "satoro-merino-toque": "Arc'teryx Satoro Merino Toque | ENROUTE.RUN",
+    "mens-norvan-downword-logo-ss": "Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN",
     "womens-cerium-hoody": "Arc'teryx Women's Cerium Hoody | Running | ENROUTE.RUN",
-    "womens-gamma-mx-hoody": "Arc'teryx Women's Gamma MX Hoody | Running | ENROUTE.RUN",
-    "womens-norvan-ld-4-gtx": "Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN",
-    "womens-sylan-pro": "Arc'teryx Women's Sylan Pro | ENROUTE.RUN",
-    "womens-rho-crew-neck-ls": "Arc'teryx Women's Rho Crew Neck LS | Running | ENROUTE.RUN",
+    "satoro-merino-toque": "Arc'teryx Satoro Merino Toque | ENROUTE.RUN",
     "womens-gamma-hoody": "Arc'teryx Women's Gamma Hoody | Running | ENROUTE.RUN",
-    "womens-norvan-ld-4": "Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN"
+    "womens-gamma-mx-hoody": "Arc'teryx Women's Gamma MX Hoody | Running | ENROUTE.RUN",
+    "womens-norvan-ld-4": "Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN",
+    "womens-norvan-ld-4-gtx": "Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN",
+    "womens-rho-crew-neck-ls": "Arc'teryx Women's Rho Crew Neck LS | Running | ENROUTE.RUN",
+    "womens-sylan-pro": "Arc'teryx Women's Sylan Pro | ENROUTE.RUN"
   },
   "variants": {
+    "name:Arc'teryx Beta SL Jacket | Running | ENROUTE.RUN||": {
+      "handle": "mens-beta-sl-jacket",
+      "title": "Arc'teryx Beta SL Jacket | Running | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 600,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-beta-sl-jacket",
+      "currency": "USD"
+    },
     "name:Arc'teryx Atom Vest | Running | ENROUTE.RUN||": {
       "handle": "arcteryx-mens-atom-vest",
       "title": "Arc'teryx Atom Vest | Running | ENROUTE.RUN",
@@ -58,32 +71,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/arcteryx-mens-atom-vest",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Norvan Short 5' – Bottoms||": {
-      "handle": "arcteryx-mens-norvan-short-5",
-      "title": "Arc'teryx Norvan Short 5' – Bottoms",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 110,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-norvan-short-5",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Gamma MX Hoody | Running | ENROUTE.RUN||": {
-      "handle": "arcteryx-mens-gamma-mx-hoody",
-      "title": "Arc'teryx Gamma MX Hoody | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 520,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-gamma-mx-hoody",
       "currency": "USD"
     },
     "name:Arc'teryx Mantis 2 Waist Pack | ENROUTE.RUN||": {
@@ -99,6 +86,19 @@
       "url": "https://enroute.run/products/arcteryx-mantis-2-waist-pack",
       "currency": "USD"
     },
+    "name:Arc'teryx Norvan Short 5' – Bottoms||": {
+      "handle": "arcteryx-mens-norvan-short-5",
+      "title": "Arc'teryx Norvan Short 5' – Bottoms",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 110,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-norvan-short-5",
+      "currency": "USD"
+    },
     "name:Arc'teryx Atom Jacket | Running | ENROUTE.RUN||": {
       "handle": "arcteryx-mens-atom-jacket",
       "title": "Arc'teryx Atom Jacket | Running | ENROUTE.RUN",
@@ -110,19 +110,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/arcteryx-mens-atom-jacket",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Rho LT Crew Neck | Running | ENROUTE.RUN||": {
-      "handle": "arcteryx-mens-rho-lt-crew-neck",
-      "title": "Arc'teryx Rho LT Crew Neck | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 120,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-crew-neck",
       "currency": "USD"
     },
     "name:Arc'teryx Mantis 1 Waist Pack | ENROUTE.RUN||": {
@@ -138,30 +125,17 @@
       "url": "https://enroute.run/products/arcteryx-mantis-1-waist-pack",
       "currency": "USD"
     },
-    "name:Arc'teryx Beta SL Jacket | Running | ENROUTE.RUN||": {
-      "handle": "mens-beta-sl-jacket",
-      "title": "Arc'teryx Beta SL Jacket | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 600,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-beta-sl-jacket",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Rho Headband | Running | ENROUTE.RUN||": {
-      "handle": "arcteryx-rho-headband",
-      "title": "Arc'teryx Rho Headband | Running | ENROUTE.RUN",
+    "name:Arc'teryx Gamma MX Hoody | Running | ENROUTE.RUN||": {
+      "handle": "arcteryx-mens-gamma-mx-hoody",
+      "title": "Arc'teryx Gamma MX Hoody | Running | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 50,
+      "price_cents": 520,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-rho-headband",
+      "url": "https://enroute.run/products/arcteryx-mens-gamma-mx-hoody",
       "currency": "USD"
     },
     "name:Arc'teryx Kyanite Pant | Running | ENROUTE.RUN||": {
@@ -177,43 +151,17 @@
       "url": "https://enroute.run/products/arcteryx-mens-kyanite-pant",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Covert Cardigan | Running | ENROUTE.RUN||": {
-      "handle": "arcteryx-womens-covert-cardigan",
-      "title": "Arc'teryx Women's Covert Cardigan | Running | ENROUTE.RUN",
+    "name:Arc'teryx Rho Headband | Running | ENROUTE.RUN||": {
+      "handle": "arcteryx-rho-headband",
+      "title": "Arc'teryx Rho Headband | Running | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 220,
+      "price_cents": 50,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-covert-cardigan",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Kyanite Hoody | Running | ENROUTE.RUN||": {
-      "handle": "arcteryx-womens-kyanite-hoody",
-      "title": "Arc'teryx Women's Kyanite Hoody | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 240,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-kyanite-hoody",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Sylan GTX | ENROUTE.RUN||": {
-      "handle": "arcteryx-womens-sylan-gtx",
-      "title": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 165,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
+      "url": "https://enroute.run/products/arcteryx-rho-headband",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Beta SL Jacket | Running | ENROUTE.RUN||": {
@@ -229,30 +177,30 @@
       "url": "https://enroute.run/products/arcteryx-womens-beta-sl-jacket",
       "currency": "USD"
     },
-    "name:Arc'teryx Bird Head Toque | ENROUTE.RUN||": {
-      "handle": "bird-head-toque",
-      "title": "Arc'teryx Bird Head Toque | ENROUTE.RUN",
+    "name:Arc'teryx Rho LT Crew Neck | Running | ENROUTE.RUN||": {
+      "handle": "arcteryx-mens-rho-lt-crew-neck",
+      "title": "Arc'teryx Rho LT Crew Neck | Running | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 75,
+      "price_cents": 120,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/bird-head-toque",
+      "url": "https://enroute.run/products/arcteryx-mens-rho-lt-crew-neck",
       "currency": "USD"
     },
-    "name:Arc'teryx Kragg Cotton Lithographica SS | ENROUTE.RUN||": {
-      "handle": "kragg-cotton-lithographica-ss",
-      "title": "Arc'teryx Kragg Cotton Lithographica SS | ENROUTE.RUN",
+    "name:Arc'teryx Women's Covert Cardigan | Running | ENROUTE.RUN||": {
+      "handle": "arcteryx-womens-covert-cardigan",
+      "title": "Arc'teryx Women's Covert Cardigan | Running | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 100,
+      "price_cents": 220,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/kragg-cotton-lithographica-ss",
+      "url": "https://enroute.run/products/arcteryx-womens-covert-cardigan",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Atom Hoody | Running | ENROUTE.RUN||": {
@@ -266,6 +214,84 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/arcteryx-womens-atom-hoody",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Sylan GTX | ENROUTE.RUN||": {
+      "handle": "arcteryx-mens-sylan-gtx",
+      "title": "Arc'teryx Sylan GTX | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 280,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-sylan-gtx",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Sylan GTX | ENROUTE.RUN||": {
+      "handle": "arcteryx-womens-sylan-gtx",
+      "title": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 165,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Kyanite Hoody | Running | ENROUTE.RUN||": {
+      "handle": "arcteryx-womens-kyanite-hoody",
+      "title": "Arc'teryx Women's Kyanite Hoody | Running | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 240,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-kyanite-hoody",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Bird Head Toque | ENROUTE.RUN||": {
+      "handle": "bird-head-toque",
+      "title": "Arc'teryx Bird Head Toque | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 75,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/bird-head-toque",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Bird Word Cap | Running | ENROUTE.RUN||": {
+      "handle": "bird-word-cap",
+      "title": "Arc'teryx Bird Word Cap | Running | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 60,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/bird-word-cap",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Kragg Cotton Lithographica SS | ENROUTE.RUN||": {
+      "handle": "kragg-cotton-lithographica-ss",
+      "title": "Arc'teryx Kragg Cotton Lithographica SS | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 100,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/kragg-cotton-lithographica-ss",
       "currency": "USD"
     },
     "name:Arc'teryx Kragg SL Cotton Shirt LS | Running | ENROUTE.RUN||": {
@@ -294,19 +320,6 @@
       "url": "https://enroute.run/products/mens-beta-jacket",
       "currency": "USD"
     },
-    "name:Arc'teryx Sylan GTX | ENROUTE.RUN||": {
-      "handle": "arcteryx-mens-sylan-gtx",
-      "title": "Arc'teryx Sylan GTX | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 280,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-sylan-gtx",
-      "currency": "USD"
-    },
     "name:Arc'teryx Cerium Jacket | Running | ENROUTE.RUN||": {
       "handle": "mens-cerium-jacket",
       "title": "Arc'teryx Cerium Jacket | Running | ENROUTE.RUN",
@@ -318,6 +331,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-cerium-jacket",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Heliad Crossbody Bag | ENROUTE.RUN||": {
+      "handle": "heliad-crossbody-bag",
+      "title": "Arc'teryx Heliad Crossbody Bag | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 75,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/heliad-crossbody-bag",
       "currency": "USD"
     },
     "name:Arc'teryx Cormac Logo Shirt SS – Top||": {
@@ -333,19 +359,6 @@
       "url": "https://enroute.run/products/mens-cormac-logo-shirt-ss",
       "currency": "USD"
     },
-    "name:Arc'teryx Bird Word Cap | Running | ENROUTE.RUN||": {
-      "handle": "bird-word-cap",
-      "title": "Arc'teryx Bird Word Cap | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 60,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/bird-word-cap",
-      "currency": "USD"
-    },
     "name:Arc'teryx Delta Hoody | Running | ENROUTE.RUN||": {
       "handle": "mens-delta-hoody",
       "title": "Arc'teryx Delta Hoody | Running | ENROUTE.RUN",
@@ -359,6 +372,19 @@
       "url": "https://enroute.run/products/mens-delta-hoody",
       "currency": "USD"
     },
+    "name:Arc'teryx Gamma Jacket | Running | ENROUTE.RUN||": {
+      "handle": "mens-gamma-jacket",
+      "title": "Arc'teryx Gamma Jacket | Running | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 360,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-gamma-jacket",
+      "currency": "USD"
+    },
     "name:Arc'teryx Gamma Hoody | Running | ENROUTE.RUN||": {
       "handle": "mens-gamma-hoody",
       "title": "Arc'teryx Gamma Hoody | Running | ENROUTE.RUN",
@@ -370,19 +396,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-gamma-hoody",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Heliad Crossbody Bag | ENROUTE.RUN||": {
-      "handle": "heliad-crossbody-bag",
-      "title": "Arc'teryx Heliad Crossbody Bag | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 75,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/heliad-crossbody-bag",
       "currency": "USD"
     },
     "name:Arc'teryx Delta Pullover Hoody | Running | ENROUTE.RUN||": {
@@ -437,45 +450,6 @@
       "url": "https://enroute.run/products/mens-kragg-shoe",
       "currency": "USD"
     },
-    "name:Arc'teryx Kyanite Jacket | Running | ENROUTE.RUN||": {
-      "handle": "mens-kyanite-jacket",
-      "title": "Arc'teryx Kyanite Jacket | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 220,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-kyanite-jacket",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN||": {
-      "handle": "mens-norvan-downword-logo-ss",
-      "title": "Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 110,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Gamma Jacket | Running | ENROUTE.RUN||": {
-      "handle": "mens-gamma-jacket",
-      "title": "Arc'teryx Gamma Jacket | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 360,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/mens-gamma-jacket",
-      "currency": "USD"
-    },
     "name:Arc'teryx Kragg SL Cotton SS | ENROUTE.RUN||": {
       "handle": "mens-kragg-sl-cotton-ss",
       "title": "Arc'teryx Kragg SL Cotton SS | ENROUTE.RUN",
@@ -487,6 +461,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/mens-kragg-sl-cotton-ss",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Kyanite Jacket | Running | ENROUTE.RUN||": {
+      "handle": "mens-kyanite-jacket",
+      "title": "Arc'teryx Kyanite Jacket | Running | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 220,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/mens-kyanite-jacket",
       "currency": "USD"
     },
     "name:Arc'teryx Norvan LD 4 | ENROUTE.RUN||": {
@@ -502,17 +489,17 @@
       "url": "https://enroute.run/products/mens-norvan-ld-4",
       "currency": "USD"
     },
-    "name:Arc'teryx Satoro Merino Toque | ENROUTE.RUN||": {
-      "handle": "satoro-merino-toque",
-      "title": "Arc'teryx Satoro Merino Toque | ENROUTE.RUN",
+    "name:Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN||": {
+      "handle": "mens-norvan-downword-logo-ss",
+      "title": "Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN",
       "color": "",
       "size": "",
-      "available": true,
-      "price_cents": 60,
+      "available": false,
+      "price_cents": 110,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/satoro-merino-toque",
+      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Cerium Hoody | Running | ENROUTE.RUN||": {
@@ -528,56 +515,17 @@
       "url": "https://enroute.run/products/womens-cerium-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Gamma MX Hoody | Running | ENROUTE.RUN||": {
-      "handle": "womens-gamma-mx-hoody",
-      "title": "Arc'teryx Women's Gamma MX Hoody | Running | ENROUTE.RUN",
+    "name:Arc'teryx Satoro Merino Toque | ENROUTE.RUN||": {
+      "handle": "satoro-merino-toque",
+      "title": "Arc'teryx Satoro Merino Toque | ENROUTE.RUN",
       "color": "",
       "size": "",
-      "available": false,
-      "price_cents": 520,
+      "available": true,
+      "price_cents": 60,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-gamma-mx-hoody",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN||": {
-      "handle": "womens-norvan-ld-4-gtx",
-      "title": "Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 240,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Sylan Pro | ENROUTE.RUN||": {
-      "handle": "womens-sylan-pro",
-      "title": "Arc'teryx Women's Sylan Pro | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 140,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-sylan-pro",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Rho Crew Neck LS | Running | ENROUTE.RUN||": {
-      "handle": "womens-rho-crew-neck-ls",
-      "title": "Arc'teryx Women's Rho Crew Neck LS | Running | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 120,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-rho-crew-neck-ls",
+      "url": "https://enroute.run/products/satoro-merino-toque",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Gamma Hoody | Running | ENROUTE.RUN||": {
@@ -593,6 +541,19 @@
       "url": "https://enroute.run/products/womens-gamma-hoody",
       "currency": "USD"
     },
+    "name:Arc'teryx Women's Gamma MX Hoody | Running | ENROUTE.RUN||": {
+      "handle": "womens-gamma-mx-hoody",
+      "title": "Arc'teryx Women's Gamma MX Hoody | Running | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 520,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-gamma-mx-hoody",
+      "currency": "USD"
+    },
     "name:Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN||": {
       "handle": "womens-norvan-ld-4",
       "title": "Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN",
@@ -604,6 +565,45 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-norvan-ld-4",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN||": {
+      "handle": "womens-norvan-ld-4-gtx",
+      "title": "Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 240,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Rho Crew Neck LS | Running | ENROUTE.RUN||": {
+      "handle": "womens-rho-crew-neck-ls",
+      "title": "Arc'teryx Women's Rho Crew Neck LS | Running | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-rho-crew-neck-ls",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Sylan Pro | ENROUTE.RUN||": {
+      "handle": "womens-sylan-pro",
+      "title": "Arc'teryx Women's Sylan Pro | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 140,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-sylan-pro",
       "currency": "USD"
     }
   }
