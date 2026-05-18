@@ -1,102 +1,63 @@
 {
   "version": 2,
   "products": {
-    "arcteryx-womens-sylan-gtx": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
-    "arcteryx-womens-norvan-crew-ss": "Arc'teryx Women's Norvan Crew Shirt SS | ENROUTE.RUN",
-    "arcteryx-mens-norvan-ld-3": "Arc'teryx Norvan LD 3 | ENROUTE.RUN",
-    "cormac-hoody": "Arc'teryx Cormac Hoody | ENROUTE.RUN",
+    "arcteryx-womens-norvan-tank": "Arc'teryx Women's Norvan Tank | ENROUTE.RUN",
     "arcteryx-mens-ionia-merino-wool-hoody": "Arc'teryx Ionia Merino Wool Hoody | ENROUTE.RUN",
     "arcteryx-mens-kyanite-pullover-hood": "Arc'teryx Kyanite Pullover Hoody | ENROUTE.RUN",
-    "arcteryx-womens-norvan-tank": "Arc'teryx Women's Norvan Tank | ENROUTE.RUN",
+    "arcteryx-womens-norvan-crew-ss": "Arc'teryx Women's Norvan Crew Shirt SS | ENROUTE.RUN",
+    "arcteryx-womens-sylan-gtx": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
+    "arcteryx-mens-norvan-ld-3": "Arc'teryx Norvan LD 3 | ENROUTE.RUN",
+    "cormac-hoody": "Arc'teryx Cormac Hoody | ENROUTE.RUN",
     "arcteryx-mens-sylan-gtx": "Arc'teryx Sylan GTX | ENROUTE.RUN",
-    "covert-cardigan": "Arc'teryx Covert Cardigan | ENROUTE.RUN",
-    "cronin-cotton-overshirt": "Arc'teryx Cronin Cotton Overshirt | ENROUTE.RUN",
-    "emblem-fleece-hoody": "Arc'teryx Emblem Fleece Hoody | ENROUTE.RUN",
     "konseal-pullover-hoody": "Arc'teryx Konseal Pullover Hoody | ENROUTE.RUN",
+    "covert-cardigan": "Arc'teryx Covert Cardigan | ENROUTE.RUN",
+    "gamma-hoody": "Arc'teryx Gamma Hoody | ENROUTE.RUN",
+    "emblem-fleece-hoody": "Arc'teryx Emblem Fleece Hoody | ENROUTE.RUN",
+    "cronin-cotton-overshirt": "Arc'teryx Cronin Cotton Overshirt | ENROUTE.RUN",
     "konseal-crew-neck-pullover": "Arc'teryx Konseal Crew Neck Pullover | ENROUTE.RUN",
     "epsilon-down-hoody": "Arc'teryx Epsilon Down Hoody | ENROUTE.RUN",
     "kragg-cotton-lithographica-ss": "Arc'teryx Kragg Cotton Lithographica SS | ENROUTE.RUN",
-    "gamma-hoody": "Arc'teryx Gamma Hoody | ENROUTE.RUN",
-    "kragg-sl-cotton-shirt-ls": "Arc'teryx Kragg SL Cotton Shirt LS | ENROUTE.RUN",
-    "mens-kragg-sl-cotton-ss": "Arc'teryx Kragg SL Cotton SS | ENROUTE.RUN",
     "mens-norvan-downword-logo-ss": "Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN",
+    "mens-kragg-sl-cotton-ss": "Arc'teryx Kragg SL Cotton SS | ENROUTE.RUN",
+    "mens-kragg-shoe": "Arc'teryx Kragg Shoe | ENROUTE.RUN",
     "mens-sima-pullover-hoody": "Arc'teryx Sima Pullover Hoody | ENROUTE.RUN",
     "norvan-downword-logo-shirt-ss": "Arc'teryx Norvan Downword Logo Shirt SS | ENROUTE.RUN",
     "mens-norvan-ld-4": "Arc'teryx Norvan LD 4 | ENROUTE.RUN",
     "norvan-half-tight": "Arc'teryx Norvan Half Tight | ENROUTE.RUN",
-    "mens-kragg-shoe": "Arc'teryx Kragg Shoe | ENROUTE.RUN",
+    "kragg-sl-cotton-shirt-ls": "Arc'teryx Kragg SL Cotton Shirt LS | ENROUTE.RUN",
     "norvan-liner-short-7": "Arc'teryx Norvan Liner Short 7\" | ENROUTE.RUN",
+    "womens-gamma-hoody-1": "Arc'teryx Women's Gamma Hoody | ENROUTE.RUN",
     "norvan-windshell-hoody": "Arc'teryx Norvan Windshell Hoody | ENROUTE.RUN",
-    "skyline-shirt-ls": "Arc'teryx Skyline Shirt LS | ENROUTE.RUN",
     "skyline-shirt-ss": "Arc'teryx Skyline Shirt SS | ENROUTE.RUN",
-    "sylan-2-shoes": "Arc'teryx Women's Sylan 2 Shoes | ENROUTE.RUN",
     "sylan-2-shoes-1": "Arc'teryx Sylan 2 Shoes | ENROUTE.RUN",
     "womens-emblem-fleece-crew-neck-pullover": "Arc'teryx Women's Emblem Fleece Crew Pullover | ENROUTE.RUN",
-    "womens-gamma-hoody-1": "Arc'teryx Women's Gamma Hoody | ENROUTE.RUN",
+    "skyline-shirt-ls": "Arc'teryx Skyline Shirt LS | ENROUTE.RUN",
+    "sylan-2-shoes": "Arc'teryx Women's Sylan 2 Shoes | ENROUTE.RUN",
     "womens-kragg-cotton-little-bird-crew-ss": "Arc'teryx Women's Kragg Little Bird Crew SS | ENROUTE.RUN",
     "womens-kragg-cotton-bird-crew-ls": "Arc'teryx Women's Kragg Cotton Bird Crew LS | ENROUTE.RUN",
-    "womens-kragg-cotton-sticker-crew-ls": "Arc'teryx Women's Kragg Cotton Sticker Crew LS | ENROUTE.RUN",
-    "womens-kragg-shoes": "Arc'teryx Women's Kragg Shoes | ENROUTE.RUN",
-    "womens-norvan-ld-4": "Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN",
-    "womens-sima-shirt-ls": "Arc'teryx Women's Sima Shirt LS | ENROUTE.RUN",
     "womens-kragg-insulated-shoes": "Arc'teryx Women's Kragg Insulated Shoes | ENROUTE.RUN",
+    "womens-kragg-cotton-sticker-crew-ls": "Arc'teryx Women's Kragg Cotton Sticker Crew LS | ENROUTE.RUN",
+    "womens-sima-shirt-ls": "Arc'teryx Women's Sima Shirt LS | ENROUTE.RUN",
     "womens-norvan-ld-4-gtx": "Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN",
+    "womens-norvan-ld-4": "Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN",
+    "womens-kragg-shoes": "Arc'teryx Women's Kragg Shoes | ENROUTE.RUN",
     "womens-sima-shirt-ss": "Arc'teryx Women's Sima Shirt SS | ENROUTE.RUN",
-    "womens-soria-tank": "Arc'teryx Women's Soria Tank | ENROUTE.RUN",
     "womens-taema-crew-neck-shirt-ls": "Arc'teryx Women's Taema Crew Neck LS | ENROUTE.RUN",
+    "womens-soria-tank": "Arc'teryx Women's Soria Tank | ENROUTE.RUN",
     "womens-taema-tank": "Arc'teryx Women's Taema Tank | ENROUTE.RUN"
   },
   "variants": {
-    "name:Arc'teryx Women's Sylan GTX | ENROUTE.RUN||": {
-      "handle": "arcteryx-womens-sylan-gtx",
-      "title": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
+    "name:Arc'teryx Women's Norvan Tank | ENROUTE.RUN||": {
+      "handle": "arcteryx-womens-norvan-tank",
+      "title": "Arc'teryx Women's Norvan Tank | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 165,
+      "price_cents": 100,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Norvan Crew Shirt SS | ENROUTE.RUN||": {
-      "handle": "arcteryx-womens-norvan-crew-ss",
-      "title": "Arc'teryx Women's Norvan Crew Shirt SS | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 110,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-norvan-crew-ss",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Norvan LD 3 | ENROUTE.RUN||": {
-      "handle": "arcteryx-mens-norvan-ld-3",
-      "title": "Arc'teryx Norvan LD 3 | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 160,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/arcteryx-mens-norvan-ld-3",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Cormac Hoody | ENROUTE.RUN||": {
-      "handle": "cormac-hoody",
-      "title": "Arc'teryx Cormac Hoody | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 120,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/cormac-hoody",
+      "url": "https://enroute.run/products/arcteryx-womens-norvan-tank",
       "currency": "USD"
     },
     "name:Arc'teryx Ionia Merino Wool Hoody | ENROUTE.RUN||": {
@@ -125,17 +86,56 @@
       "url": "https://enroute.run/products/arcteryx-mens-kyanite-pullover-hood",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Norvan Tank | ENROUTE.RUN||": {
-      "handle": "arcteryx-womens-norvan-tank",
-      "title": "Arc'teryx Women's Norvan Tank | ENROUTE.RUN",
+    "name:Arc'teryx Women's Norvan Crew Shirt SS | ENROUTE.RUN||": {
+      "handle": "arcteryx-womens-norvan-crew-ss",
+      "title": "Arc'teryx Women's Norvan Crew Shirt SS | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 100,
+      "price_cents": 110,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/arcteryx-womens-norvan-tank",
+      "url": "https://enroute.run/products/arcteryx-womens-norvan-crew-ss",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Sylan GTX | ENROUTE.RUN||": {
+      "handle": "arcteryx-womens-sylan-gtx",
+      "title": "Arc'teryx Women's Sylan GTX | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 165,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-womens-sylan-gtx",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Norvan LD 3 | ENROUTE.RUN||": {
+      "handle": "arcteryx-mens-norvan-ld-3",
+      "title": "Arc'teryx Norvan LD 3 | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 160,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/arcteryx-mens-norvan-ld-3",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Cormac Hoody | ENROUTE.RUN||": {
+      "handle": "cormac-hoody",
+      "title": "Arc'teryx Cormac Hoody | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 120,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/cormac-hoody",
       "currency": "USD"
     },
     "name:Arc'teryx Sylan GTX | ENROUTE.RUN||": {
@@ -151,6 +151,19 @@
       "url": "https://enroute.run/products/arcteryx-mens-sylan-gtx",
       "currency": "USD"
     },
+    "name:Arc'teryx Konseal Pullover Hoody | ENROUTE.RUN||": {
+      "handle": "konseal-pullover-hoody",
+      "title": "Arc'teryx Konseal Pullover Hoody | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 240,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/konseal-pullover-hoody",
+      "currency": "USD"
+    },
     "name:Arc'teryx Covert Cardigan | ENROUTE.RUN||": {
       "handle": "covert-cardigan",
       "title": "Arc'teryx Covert Cardigan | ENROUTE.RUN",
@@ -164,17 +177,17 @@
       "url": "https://enroute.run/products/covert-cardigan",
       "currency": "USD"
     },
-    "name:Arc'teryx Cronin Cotton Overshirt | ENROUTE.RUN||": {
-      "handle": "cronin-cotton-overshirt",
-      "title": "Arc'teryx Cronin Cotton Overshirt | ENROUTE.RUN",
+    "name:Arc'teryx Gamma Hoody | ENROUTE.RUN||": {
+      "handle": "gamma-hoody",
+      "title": "Arc'teryx Gamma Hoody | ENROUTE.RUN",
       "color": "",
       "size": "",
-      "available": false,
-      "price_cents": 230,
+      "available": true,
+      "price_cents": 380,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/cronin-cotton-overshirt",
+      "url": "https://enroute.run/products/gamma-hoody",
       "currency": "USD"
     },
     "name:Arc'teryx Emblem Fleece Hoody | ENROUTE.RUN||": {
@@ -190,17 +203,17 @@
       "url": "https://enroute.run/products/emblem-fleece-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Konseal Pullover Hoody | ENROUTE.RUN||": {
-      "handle": "konseal-pullover-hoody",
-      "title": "Arc'teryx Konseal Pullover Hoody | ENROUTE.RUN",
+    "name:Arc'teryx Cronin Cotton Overshirt | ENROUTE.RUN||": {
+      "handle": "cronin-cotton-overshirt",
+      "title": "Arc'teryx Cronin Cotton Overshirt | ENROUTE.RUN",
       "color": "",
       "size": "",
-      "available": true,
-      "price_cents": 240,
+      "available": false,
+      "price_cents": 230,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/konseal-pullover-hoody",
+      "url": "https://enroute.run/products/cronin-cotton-overshirt",
       "currency": "USD"
     },
     "name:Arc'teryx Konseal Crew Neck Pullover | ENROUTE.RUN||": {
@@ -242,30 +255,17 @@
       "url": "https://enroute.run/products/kragg-cotton-lithographica-ss",
       "currency": "USD"
     },
-    "name:Arc'teryx Gamma Hoody | ENROUTE.RUN||": {
-      "handle": "gamma-hoody",
-      "title": "Arc'teryx Gamma Hoody | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 380,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/gamma-hoody",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Kragg SL Cotton Shirt LS | ENROUTE.RUN||": {
-      "handle": "kragg-sl-cotton-shirt-ls",
-      "title": "Arc'teryx Kragg SL Cotton Shirt LS | ENROUTE.RUN",
+    "name:Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN||": {
+      "handle": "mens-norvan-downword-logo-ss",
+      "title": "Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 90,
+      "price_cents": 110,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/kragg-sl-cotton-shirt-ls",
+      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
       "currency": "USD"
     },
     "name:Arc'teryx Kragg SL Cotton SS | ENROUTE.RUN||": {
@@ -281,17 +281,17 @@
       "url": "https://enroute.run/products/mens-kragg-sl-cotton-ss",
       "currency": "USD"
     },
-    "name:Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN||": {
-      "handle": "mens-norvan-downword-logo-ss",
-      "title": "Arc'teryx Norvan Downword Logo SS | ENROUTE.RUN",
+    "name:Arc'teryx Kragg Shoe | ENROUTE.RUN||": {
+      "handle": "mens-kragg-shoe",
+      "title": "Arc'teryx Kragg Shoe | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 110,
+      "price_cents": 120,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-norvan-downword-logo-ss",
+      "url": "https://enroute.run/products/mens-kragg-shoe",
       "currency": "USD"
     },
     "name:Arc'teryx Sima Pullover Hoody | ENROUTE.RUN||": {
@@ -346,17 +346,17 @@
       "url": "https://enroute.run/products/norvan-half-tight",
       "currency": "USD"
     },
-    "name:Arc'teryx Kragg Shoe | ENROUTE.RUN||": {
-      "handle": "mens-kragg-shoe",
-      "title": "Arc'teryx Kragg Shoe | ENROUTE.RUN",
+    "name:Arc'teryx Kragg SL Cotton Shirt LS | ENROUTE.RUN||": {
+      "handle": "kragg-sl-cotton-shirt-ls",
+      "title": "Arc'teryx Kragg SL Cotton Shirt LS | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 120,
+      "price_cents": 90,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/mens-kragg-shoe",
+      "url": "https://enroute.run/products/kragg-sl-cotton-shirt-ls",
       "currency": "USD"
     },
     "name:Arc'teryx Norvan Liner Short 7\" | ENROUTE.RUN||": {
@@ -372,6 +372,19 @@
       "url": "https://enroute.run/products/norvan-liner-short-7",
       "currency": "USD"
     },
+    "name:Arc'teryx Women's Gamma Hoody | ENROUTE.RUN||": {
+      "handle": "womens-gamma-hoody-1",
+      "title": "Arc'teryx Women's Gamma Hoody | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 380,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-gamma-hoody-1",
+      "currency": "USD"
+    },
     "name:Arc'teryx Norvan Windshell Hoody | ENROUTE.RUN||": {
       "handle": "norvan-windshell-hoody",
       "title": "Arc'teryx Norvan Windshell Hoody | ENROUTE.RUN",
@@ -385,19 +398,6 @@
       "url": "https://enroute.run/products/norvan-windshell-hoody",
       "currency": "USD"
     },
-    "name:Arc'teryx Skyline Shirt LS | ENROUTE.RUN||": {
-      "handle": "skyline-shirt-ls",
-      "title": "Arc'teryx Skyline Shirt LS | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 180,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/skyline-shirt-ls",
-      "currency": "USD"
-    },
     "name:Arc'teryx Skyline Shirt SS | ENROUTE.RUN||": {
       "handle": "skyline-shirt-ss",
       "title": "Arc'teryx Skyline Shirt SS | ENROUTE.RUN",
@@ -409,19 +409,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/skyline-shirt-ss",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Sylan 2 Shoes | ENROUTE.RUN||": {
-      "handle": "sylan-2-shoes",
-      "title": "Arc'teryx Women's Sylan 2 Shoes | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": true,
-      "price_cents": 280,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/sylan-2-shoes",
       "currency": "USD"
     },
     "name:Arc'teryx Sylan 2 Shoes | ENROUTE.RUN||": {
@@ -450,17 +437,30 @@
       "url": "https://enroute.run/products/womens-emblem-fleece-crew-neck-pullover",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Gamma Hoody | ENROUTE.RUN||": {
-      "handle": "womens-gamma-hoody-1",
-      "title": "Arc'teryx Women's Gamma Hoody | ENROUTE.RUN",
+    "name:Arc'teryx Skyline Shirt LS | ENROUTE.RUN||": {
+      "handle": "skyline-shirt-ls",
+      "title": "Arc'teryx Skyline Shirt LS | ENROUTE.RUN",
       "color": "",
       "size": "",
       "available": false,
-      "price_cents": 380,
+      "price_cents": 180,
       "inventory_qty": null,
       "variant_id": "",
       "sku": "",
-      "url": "https://enroute.run/products/womens-gamma-hoody-1",
+      "url": "https://enroute.run/products/skyline-shirt-ls",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Sylan 2 Shoes | ENROUTE.RUN||": {
+      "handle": "sylan-2-shoes",
+      "title": "Arc'teryx Women's Sylan 2 Shoes | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": true,
+      "price_cents": 280,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/sylan-2-shoes",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Kragg Little Bird Crew SS | ENROUTE.RUN||": {
@@ -489,6 +489,19 @@
       "url": "https://enroute.run/products/womens-kragg-cotton-bird-crew-ls",
       "currency": "USD"
     },
+    "name:Arc'teryx Women's Kragg Insulated Shoes | ENROUTE.RUN||": {
+      "handle": "womens-kragg-insulated-shoes",
+      "title": "Arc'teryx Women's Kragg Insulated Shoes | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 11399,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-kragg-insulated-shoes",
+      "currency": "USD"
+    },
     "name:Arc'teryx Women's Kragg Cotton Sticker Crew LS | ENROUTE.RUN||": {
       "handle": "womens-kragg-cotton-sticker-crew-ls",
       "title": "Arc'teryx Women's Kragg Cotton Sticker Crew LS | ENROUTE.RUN",
@@ -500,32 +513,6 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-kragg-cotton-sticker-crew-ls",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Kragg Shoes | ENROUTE.RUN||": {
-      "handle": "womens-kragg-shoes",
-      "title": "Arc'teryx Women's Kragg Shoes | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 10399,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-kragg-shoes",
-      "currency": "USD"
-    },
-    "name:Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN||": {
-      "handle": "womens-norvan-ld-4",
-      "title": "Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 150,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-norvan-ld-4",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Sima Shirt LS | ENROUTE.RUN||": {
@@ -541,19 +528,6 @@
       "url": "https://enroute.run/products/womens-sima-shirt-ls",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Kragg Insulated Shoes | ENROUTE.RUN||": {
-      "handle": "womens-kragg-insulated-shoes",
-      "title": "Arc'teryx Women's Kragg Insulated Shoes | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 11399,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-kragg-insulated-shoes",
-      "currency": "USD"
-    },
     "name:Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN||": {
       "handle": "womens-norvan-ld-4-gtx",
       "title": "Arc'teryx Women's Norvan LD 4 GTX | ENROUTE.RUN",
@@ -565,6 +539,32 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-norvan-ld-4-gtx",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN||": {
+      "handle": "womens-norvan-ld-4",
+      "title": "Arc'teryx Women's Norvan LD 4 | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 150,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-norvan-ld-4",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Kragg Shoes | ENROUTE.RUN||": {
+      "handle": "womens-kragg-shoes",
+      "title": "Arc'teryx Women's Kragg Shoes | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 10399,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-kragg-shoes",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Sima Shirt SS | ENROUTE.RUN||": {
@@ -580,19 +580,6 @@
       "url": "https://enroute.run/products/womens-sima-shirt-ss",
       "currency": "USD"
     },
-    "name:Arc'teryx Women's Soria Tank | ENROUTE.RUN||": {
-      "handle": "womens-soria-tank",
-      "title": "Arc'teryx Women's Soria Tank | ENROUTE.RUN",
-      "color": "",
-      "size": "",
-      "available": false,
-      "price_cents": 70,
-      "inventory_qty": null,
-      "variant_id": "",
-      "sku": "",
-      "url": "https://enroute.run/products/womens-soria-tank",
-      "currency": "USD"
-    },
     "name:Arc'teryx Women's Taema Crew Neck LS | ENROUTE.RUN||": {
       "handle": "womens-taema-crew-neck-shirt-ls",
       "title": "Arc'teryx Women's Taema Crew Neck LS | ENROUTE.RUN",
@@ -604,6 +591,19 @@
       "variant_id": "",
       "sku": "",
       "url": "https://enroute.run/products/womens-taema-crew-neck-shirt-ls",
+      "currency": "USD"
+    },
+    "name:Arc'teryx Women's Soria Tank | ENROUTE.RUN||": {
+      "handle": "womens-soria-tank",
+      "title": "Arc'teryx Women's Soria Tank | ENROUTE.RUN",
+      "color": "",
+      "size": "",
+      "available": false,
+      "price_cents": 70,
+      "inventory_qty": null,
+      "variant_id": "",
+      "sku": "",
+      "url": "https://enroute.run/products/womens-soria-tank",
       "currency": "USD"
     },
     "name:Arc'teryx Women's Taema Tank | ENROUTE.RUN||": {
